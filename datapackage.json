@@ -1,0 +1,217 @@
+{
+  "title": "Safe Harbor companies registered with the FTC",
+  "date": "2015-04-24",
+  "name": "safe-harbor",
+  "version": "0.1.4",
+  "license": "PDDL-1.0",
+  "sources": [{
+      "name": "Federal Trade Commission Safe Harbor website",
+      "web": "https://safeharbor.export.gov/"
+    }],
+  "resources": [
+    {
+      "path": "safe_harbor.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "asp_index",
+            "type": "string",
+            "description": "The index of the record in the .NET ASP database used by the FTC"
+          },
+          {
+            "name": "OrgName",
+            "type": "string",
+            "description": "The name of the organisation"
+          },
+          {
+            "name": "latest",
+            "type": "boolean",
+            "description": "Indicates if this is the latest entry for this organisation. Matches are based on OrgName"
+          },
+          {
+            "name": "previous",
+            "type": "string",
+            "description": "The index of the previous entry for the same organisation, if any. Left blank otherwise"
+          },
+          {
+            "name": "CertificationStatus",
+            "type": "boolean",
+            "description": "Current certification status. Boolean means Current/Not Current"
+          },
+          {
+            "name": "industrysector",
+            "type": "string",
+            "description": "Industry sector"
+          },
+          {
+            "name": "PPLoc",
+            "type": "string",
+            "description": "Location of the privacy policy"
+          },
+          {
+            "name": "privacyprograms",
+            "type": "string",
+            "description": "Additional privacy programs that might apply"
+          },
+          {
+            "name": "recoursemech",
+            "type": "string",
+            "description": "Recourse mechanism"
+          },
+          {
+            "name": "activities",
+            "type": "string",
+            "description": "Long form description of business activities"
+          },
+          {
+            "name": "address",
+            "type": "string",
+            "description": "Address of HQ"
+          },
+          {
+            "name": "city",
+            "type": "string",
+            "description": "City of HQ"
+          },
+          {
+            "name": "state",
+            "type": "string",
+            "description": "State of HQ"
+          },
+          {
+            "name": "zip",
+            "type": "string",
+            "description": "Zip code"
+          },
+          {
+            "name": "Phone",
+            "type": "string",
+            "description": "Phone number"
+          },
+          {
+            "name": "Fax",
+            "type": "string",
+            "description": "Fax number"
+          },
+          {
+            "name": "contactname1",
+            "type": "string",
+            "description": "Contact name"
+          },
+          {
+            "name": "contacttitle1",
+            "type": "string",
+            "description": "Contact title"
+          },
+          {
+            "name": "contactoff1",
+            "type": "string",
+            "description": "Contact office"
+          },
+          {
+            "name": "contactemail1",
+            "type": "string",
+            "description": "Contact email"
+          },
+          {
+            "name": "contactfax1",
+            "type": "string",
+            "description": "Contact fax"
+          },
+          {
+            "name": "contactphone1",
+            "type": "string",
+            "description": "Contact phone"
+          },
+          {
+            "name": "corpoffname1",
+            "type": "string",
+            "description": "Corporate officer name"
+          },
+          {
+            "name": "corpofftitle1",
+            "type": "string",
+            "description": "Corporate officer title"
+          },
+          {
+            "name": "corpoffemail1",
+            "type": "string",
+            "description": "Corporate officer email"
+          },
+          {
+            "name": "corpofffax1",
+            "type": "string",
+            "description": "Corporate officer fax"
+          },
+          {
+            "name": "corpoffphone1",
+            "type": "string",
+            "description": "Corporate officer phone"
+          },
+          {
+            "name": "eucountries",
+            "type": "string",
+            "description": "relevant EU countries (and CH)"
+          },
+          {
+            "name": "euprotection",
+            "type": "boolean",
+            "description": "Companies have the option of delegating some authority to the EU rather than the FTC"
+          },
+          {
+            "name": "hrdata",
+            "type": "boolean",
+            "description": "Applies to HR data"
+          },
+          {
+            "name": "orgverification",
+            "type": "string",
+            "description": "Verification organisation"
+          },
+          {
+            "name": "nextcertification",
+            "type": "date",
+            "description": "Date of next certification"
+          },
+          {
+            "name": "personaldata",
+            "type": "string",
+            "description": "clarification of personal data collected (self-reported)"
+          },
+          {
+            "name": "ppdate",
+            "type": "date",
+            "description": "Privacy policy date"
+          },
+          {
+            "name": "signupdate",
+            "type": "date",
+            "description": "Signup date"
+          },
+          {
+            "name": "statutorybody",
+            "type": "string",
+            "description": "Statutory body",
+            "constraints":
+                {
+                    "oneOf": ["FTC", "DoT"]
+                }
+          },
+          {
+            "name": "eucountries_parsed",
+            "type": "array",
+            "description": "A more computer-friendly version of the eucountries field, formatted as an array of ISO3166-1-Alpha-3, coming from country-codes datapackage"
+          },
+          {
+            "name": "industrysectors_parsed",
+            "type": "array",
+            "description": "A more computer-friendly version of the industrysectors field, formatted as an array of sectors"
+          }
+        ]
+      }
+    }
+  ]
+}
+

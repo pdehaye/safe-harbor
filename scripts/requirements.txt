@@ -1,0 +1,5 @@
+BeautifulSoup
+beautifulsoup4
+csvkit
+requests
+simplejson

@@ -10,7 +10,7 @@
     }],
   "resources": [
     {
-      "path": "safe_harbor.csv",
+      "path": "data/safe_harbor.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "schema": {

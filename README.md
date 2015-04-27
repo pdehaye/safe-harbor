@@ -45,3 +45,5 @@ For compatibility reasons, I have kept the same keys as in the original HTML, an
  - `statutorybody`: Federal Trade Commission, Department of Transportation, etc.
  - `eucountries_parsed`: A more computer-friendly version of the eucountries field, formatted as an array of ISO3166-1-Alpha-3, coming from `country-codes` datapackage
  - `industrysectors_parsed`: A more computer-friendly version of the industrysectors field, formatted as an array of sectors
+
+The `scripts/` folder contains the scripts necessary for scraping, and a little bit of documentation.

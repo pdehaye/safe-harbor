@@ -27,8 +27,8 @@ def parse_html(fileno):
 
 def html_2_json():
     print "Converting raw HTML files to raw JSON, simply though BeautifulSoup, and only where needed"
-    for fileno in html_filenos:
-        if not fileno in archive_json_filenos:
+    for fileno in html_filenos():
+        if not fileno in archive_json_filenos():
             print "Doing", fileno
             corp = parse_html(fileno)
             with open(os.path.join(archive_json_dir, fileno + ".json"), "w") as f:

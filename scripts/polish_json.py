@@ -2,7 +2,7 @@
     Goes from raw json to more polished json: fixes some fields, parses some others
 """
 
-from names import archive_json_dir, archive_json_filenos, json_dir, read_in_json
+from names import archive_json_dir, json_dir, read_in_json
 import simplejson
 from collections import defaultdict
 from corp_schema import all_properties, corp_properties, corp_properties_set

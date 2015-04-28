@@ -59,12 +59,12 @@
     "industrysector_parsed": [
         "Drugs & Pharmaceuticals - (DRG)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-04-11",
     "orgverification": "In-house",
     "personaldata": "manually and electronically processed data",
     "ppdate": "2005-12-06",
-    "previous": "22677",
+    "previous": "27900",
     "privacyprograms": "None",
     "recoursemech": "EU data protection authorities (DPAs) and Swiss Federal Data Protection and Information Commissioner (FDPIC)",
     "signupdate": "2006-04-11",

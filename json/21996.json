@@ -66,7 +66,7 @@
     "orgverification": "In-house",
     "personaldata": "customer personal data (such as name, address, email, phone, title) and internal employee personal data (such as name, address, email, phone, title, salary, family member names, social security numbers, identification numbers). None of the data is manually processed except for some internal employee data processed by the Human Resources Department.",
     "ppdate": "2012-12-21",
-    "previous": "21996",
+    "previous": "",
     "privacyprograms": "None",
     "recoursemech": "Axway will cooperate and comply with the European Union Data Protection Authorities (EU DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) to investigate unresolved complaints organization human resources data, and use the American Arbitration Association (AAA) developed dispute resolution mechanism to investigate unresolved complaints involving other types of data (e.g., client and customer data)",
     "signupdate": "2013-02-21",

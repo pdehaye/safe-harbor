@@ -65,7 +65,7 @@
     "orgverification": "In-house",
     "personaldata": "Employee data including first name, last name, and email address.  Patient data including protected health information that is part of a DICOM.  Clinical trial data, but please note that the protected health information is de-identified locally before leaving the sending computer.  Although we transport DICOMs for clinical trials, PHI is removed/de-identified prior to transport.",
     "ppdate": "2011-12-21",
-    "previous": "23571",
+    "previous": "",
     "privacyprograms": "None",
     "recoursemech": "BBB EU Safe Harbor",
     "signupdate": "2013-07-24",

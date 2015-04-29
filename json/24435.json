@@ -68,7 +68,7 @@
     "orgverification": "In-House",
     "personaldata": "Oversight hosted solutions are not intended for use in the storage, processing or handling of personal data. Customers are advised not to include PII in the data they provide or in the updates they manually make in the Workbench.  PII is stripped, masked, or hashed before being stored on Oversight Systems' databases when Oversight is aware of its inclusion in customer-provided data.",
     "ppdate": "2014-09-18",
-    "previous": "24435",
+    "previous": "",
     "privacyprograms": "NONE. Our Compliance Team has a member of the International Association of Privacy Professionals who holds the CIPP/US and CIPM Certifications.",
     "recoursemech": "Oversight Systems will cooperate with appropriate EU and Swiss legal/regulatory authorities as required.",
     "signupdate": "2011-07-25",

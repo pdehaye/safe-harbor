@@ -66,7 +66,7 @@
     "orgverification": "In-house and Third Party",
     "personaldata": "On/Off-Line; Manually Processed; HR Data",
     "ppdate": "2000-01-01",
-    "previous": "26450",
+    "previous": "",
     "privacyprograms": "CSI voluntarily participates in third-party external penetration testing on a monthly basis. All web facing resources are secured using at least 1024 or better bit depth SSL certificates issued by GeoTrust. Additionally, CSI leverages automated Intrusion Detection and Intrusion Prevention (IDS / IPS) systems at the border of our deep packet inspection firewall. CSI's procedures are subject to oversight by the Federal Trade Commission(FTC), the Consumer Financial Protection Bureau, the Nuclear Regulatory Commission (NRC), the Department of Transportation (DOT), and the major credit bureaus, and CSI operates in accordance with their guidelines. CSI is a member in good standing of the following professional industry organizations that promote high standards and monitor compliance: National Association of Professional Background Screeners (NAPBS), American Society for Industrial Security (ASIS), and Society for Human Resource Management (SHRM), among others.",
     "recoursemech": "EU Data Protection Authorities (DPAs) and the Swiss Federal Data Proteciton and Information Commissioner.",
     "signupdate": "2007-02-14",

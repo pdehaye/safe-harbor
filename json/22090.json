@@ -60,12 +60,12 @@
     "industrysector_parsed": [
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-02-28",
     "orgverification": "Self Assessment",
     "personaldata": "Organization & client names and contact information.  Some data is manually processed.",
     "ppdate": "2014-01-18",
-    "previous": "22090",
+    "previous": "27506",
     "privacyprograms": "PrivacyTrust Safe Harbor",
     "recoursemech": "PrivacyTrust(http://www.privacytrust.org/complaint/index.html)",
     "signupdate": "2014-02-28",

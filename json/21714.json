@@ -30,12 +30,12 @@
     "industrysector_parsed": [
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-02-26",
     "orgverification": "In-house",
     "personaldata": "credit card information; online user information; customer and client contact information.  None of the data is manually processed",
     "ppdate": "2009-01-01",
-    "previous": "21714",
+    "previous": "27421",
     "privacyprograms": "None",
     "recoursemech": "EU Data Protection Authorities (DPAs)",
     "signupdate": "2010-02-26",

@@ -40,12 +40,12 @@
     "industrysector_parsed": [
         "Health Care Services - (HCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-03-25",
     "orgverification": "In-house",
     "personaldata": "Personal data includes demographic data and personal health information for individual patients; in electronic and manual formats. Customer information and data is covered under the Safe Harbor data privacy compliance initiatives. Information that is received by our customers is confidentially managed and is not used for marketing campaigns without notification and the ability to opt-out.",
     "ppdate": "2012-06-20",
-    "previous": "22267",
+    "previous": "27762",
     "privacyprograms": "EU Data Protection Authorities (DPA),\r\nSwiss Federal Data Protection and Information Commissioner (FDPIC)",
     "recoursemech": "Veracyte has committed to cooperating with the US-EU and US-Swiss Safe Harbor Principles to refer unresolved privacy complaints to an independent dispute resolution mechanism, the DPAs, and FDPIC",
     "signupdate": "2014-03-25",

@@ -29,12 +29,12 @@
     "industrysector_parsed": [
         "Architectural/Construction/Eng Svc - (ACE)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-05-16",
     "orgverification": "In-house",
     "personaldata": "Customer/Client data (i.e. name, address, and contact information), employee data/general employment information.  This does include manually processed data.",
     "ppdate": "2011-05-01",
-    "previous": "22798",
+    "previous": "27756",
     "privacyprograms": "None",
     "recoursemech": "For organization human resources data: EU data protection authorities; For all other data: unresolved complaints are referred to the American Aribtration Association for resolution.",
     "signupdate": "2011-05-16",

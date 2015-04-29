@@ -49,7 +49,7 @@ def starting_point():
     return tmp
 
 
-def scrape(start = None, delay = 50):
+def scrape(start = None, delay = 100):
     if not start:
         start = starting_point()
     i = start

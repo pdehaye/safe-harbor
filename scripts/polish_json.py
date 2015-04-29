@@ -64,7 +64,6 @@ def standard_name(corp):
 
 def is_latest(OrgName, asp_index):
     daisy_chain = sorted(OrgName_records[OrgName])
-    print daisy_chain
     latest = (asp_index == daisy_chain[-1]) 
     if daisy_chain.index(asp_index) == 0:
         previous = ""

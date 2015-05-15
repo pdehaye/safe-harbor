@@ -60,7 +60,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-05-24",
     "orgverification": "In-house",
     "personaldata": "Microsystems automatically processes documents containing personal information provided by our clients. These documents may include information about individuals, organizations, clients, customers clinical trial data.  The documents are processed offline and personal information is not harvested from the documents.",

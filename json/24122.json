@@ -29,7 +29,7 @@
     "industrysector_parsed": [
         "Insurance Services - (INS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-06-08",
     "orgverification": "In-house",
     "personaldata": "Commercial Claim data processed in the UK but stored on servers that reside in the US",

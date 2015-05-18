@@ -62,7 +62,7 @@
         "Information Services - (INF)",
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-06-13",
     "orgverification": "Third Party",
     "personaldata": "On-line data = data collected directly on the Internet; Offline data = any digital data processed not through the Internet; Manually processed data = data collected manually",

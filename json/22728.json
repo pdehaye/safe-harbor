@@ -52,7 +52,7 @@
         "Drugs & Pharmaceuticals - (DRG)",
         "Health Care Services - (HCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-04-23",
     "orgverification": "Truste",
     "personaldata": "other - all collected electronically",

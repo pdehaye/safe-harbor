@@ -35,7 +35,7 @@
         "Biotechnology - (BTC)",
         "Drugs & Pharmaceuticals - (DRG)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-06-14",
     "orgverification": "in-house",
     "personaldata": "client physician call lists including physician name, contact information, medical prescribing reference numbers. Data is stored but not processed in any further way",

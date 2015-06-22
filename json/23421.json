@@ -58,7 +58,7 @@
         "Drugs & Pharmaceuticals - (DRG)",
         "Medical Equipment - (MED)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-07-06",
     "orgverification": "In-house verification",
     "personaldata": "On-Line, Manually Processed, personal information of employees, patients, clinical research study subjects, investigators, clinical research study support personnel, customers, healthcare professionals, contractors, vendors and partners, Human Resources",

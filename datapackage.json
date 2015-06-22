@@ -1,8 +1,8 @@
 {
   "title": "Safe Harbor companies registered with the FTC",
-  "date": "2015-06-15",
+  "date": "2015-06-22",
   "name": "safe-harbor",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "license": "PDDL-1.0",
   "sources": [{
       "name": "Federal Trade Commission Safe Harbor website",

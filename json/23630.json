@@ -63,7 +63,7 @@
         "General Services - (GSV)",
         "Transportation Srvs (Except Aviation) - (TRN)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-07-07",
     "orgverification": "TRUSTe",
     "personaldata": "Customer PII --name, address, telephone, email, salary, family information, etc, is housed by our server located in Texas and accessed by our offices around the world. Our privacy protocol also covers the handling of manually processed data (hard copy files, etc.).",

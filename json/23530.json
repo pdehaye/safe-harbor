@@ -62,7 +62,7 @@
         "Information Services - (INF)",
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-06-25",
     "orgverification": "Third party",
     "personaldata": "Data collected directly on the Internet; Data collected manually via paper, phone, or tradeshows.",

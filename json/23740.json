@@ -61,7 +61,7 @@
         "Telecommunications Equipment - (TEL)",
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-08-01",
     "orgverification": "In-House",
     "personaldata": "Visitor name and e-mail; End-User's personal and billing information, End User\u2019s IP address and the number of times a document is viewed and/or printed",

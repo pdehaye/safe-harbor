@@ -60,7 +60,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-07-25",
     "orgverification": "In-House",
     "personaldata": "All persona data (name, mobile number, itinerary information) is processed by our outsource partner, Rackspace. This is automated data from our clients and does not include manually processed data.",

@@ -58,7 +58,7 @@
         "Drugs & Pharmaceuticals - (DRG)",
         "Health Care Services - (HCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-07-13",
     "orgverification": "In-house self-assessment",
     "personaldata": "Offline, online, manually processed",

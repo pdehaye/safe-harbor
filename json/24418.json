@@ -43,7 +43,7 @@
         "Investment Service - (INV)",
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-09-03",
     "orgverification": "In-house",
     "personaldata": "Manually processed organization, client, and customer data.",

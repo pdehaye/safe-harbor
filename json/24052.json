@@ -60,7 +60,7 @@
         "Medical Equipment - (MED)",
         "Transportation Srvs (Except Aviation) - (TRN)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-08-19",
     "orgverification": "In-House",
     "personaldata": "On-Line customer-supplied data; inbound call-center and mail-receipts (manual)",

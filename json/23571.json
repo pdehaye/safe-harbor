@@ -60,7 +60,7 @@
         "Computer Software - (CSF)",
         "Health Care Services - (HCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-07-24",
     "orgverification": "In-house",
     "personaldata": "Employee data including first name, last name, and email address.  Patient data including protected health information that is part of a DICOM.  Clinical trial data, but please note that the protected health information is de-identified locally before leaving the sending computer.  Although we transport DICOMs for clinical trials, PHI is removed/de-identified prior to transport.",

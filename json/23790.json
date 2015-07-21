@@ -60,7 +60,7 @@
     "industrysector_parsed": [
         "Drugs & Pharmaceuticals - (DRG)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-07-11",
     "orgverification": "in-house assisted by Booz Allen Hamilton",
     "personaldata": "Off-line, on-line and manually processed organization, customer, patient, vendor, clinical trial data, safety data",

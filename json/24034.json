@@ -60,7 +60,7 @@
     "industrysector_parsed": [
         "Computer Services - (CSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-08-01",
     "orgverification": "Third Party - Truste",
     "personaldata": "Personal data submitted by customers to salesforce.com's services; human resources data; customer data; partner data; supplier data; prospective customer data",

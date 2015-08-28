@@ -62,7 +62,7 @@
         "General Services - (GSV)",
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-09-03",
     "orgverification": "in-house",
     "personaldata": "We collect customer and visitor data, including identifiable data, through automated and manual processes. This information is entered into various systems (CRM, helpdesk) so that issues can be tracked and resolved.",

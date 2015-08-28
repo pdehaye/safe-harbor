@@ -60,7 +60,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-08-09",
     "orgverification": "Third-party (TRUSTe)",
     "personaldata": "name, e-mail, phone number, and location",

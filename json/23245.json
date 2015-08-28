@@ -60,7 +60,7 @@
     "industrysector_parsed": [
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-06-26",
     "orgverification": "In-House",
     "personaldata": "Roadmap use email as a unique login ID, and email plus first names for ongoing communications (e.g. support tickets, newsletters).   Manual data processing or storage is not applicable.",

@@ -42,7 +42,7 @@
         "Information Services - (INF)",
         "Investment Service - (INV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-03-08",
     "orgverification": "In-house",
     "personaldata": "GNS operates a hosting service where financial applications of GNS customers are hosted and run by GNS. GNS does not directly access the data on an individual level, but the customer data of clients includes names and addresses, as well as financial instrument position data, eg names and amounts of financial securities.",

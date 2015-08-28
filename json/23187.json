@@ -62,7 +62,7 @@
         "Insurance Services - (INS)",
         "Investment Service - (INV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-06-05",
     "orgverification": "in house, and third party",
     "personaldata": "organization, user, subjects",

@@ -44,7 +44,7 @@
         "Computer Services - (CSV)",
         "Financial Services - (FNS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-08-25",
     "orgverification": "in-house",
     "personaldata": "name, physical address, city, state/province, zip/region/postal code, country, email address, phone number, account number",

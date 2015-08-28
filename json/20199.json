@@ -62,7 +62,7 @@
         "Information Services - (INF)",
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-04-03",
     "orgverification": "In-House",
     "personaldata": "Customer Data, including name, email, address and some basic preference detail eg dietary requirements etc. In certain cases we collect credit card details and these are protected by globally recognized PCI compliance protections",

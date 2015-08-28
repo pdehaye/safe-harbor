@@ -60,7 +60,7 @@
     "industrysector_parsed": [
         "Advertising Services - (ADV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-09-22",
     "orgverification": "in-house",
     "personaldata": "member personal data (name, address, e-mail, gender, education etc), purchase data related to member (company, sku, description, qty, price etc), e-mails received on @wyngle.com addresses. The data includes manually processed data",

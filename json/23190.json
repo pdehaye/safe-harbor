@@ -63,7 +63,7 @@
         "Insurance Services - (INS)",
         "Legal Services - (LES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-06-05",
     "orgverification": "In-House",
     "personaldata": "The following includes both automated and manually processed data:  Shafer Systems captures the name, a user supplied email address and in some cases the following credit card processing information:  name, address, city, state, type of card and card number.",

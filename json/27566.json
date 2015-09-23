@@ -60,7 +60,7 @@
         "Computer Services - (CSV)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-09-10",
     "orgverification": "In-House",
     "personaldata": "full name, email address, ip address, billing information including credit card number, security code, expiration month and year, company name",

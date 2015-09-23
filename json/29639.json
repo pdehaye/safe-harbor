@@ -61,7 +61,7 @@
         "Computer Services - (CSV)",
         "Health Care Services - (HCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-09-12",
     "orgverification": "In house",
     "personaldata": "Name, birthday, city, state, zip, country, medical information is manually entered by consenting patients",

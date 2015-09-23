@@ -34,7 +34,7 @@
         "Insurance Services - (INS)",
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-09-11",
     "orgverification": "In-House",
     "personaldata": "All Personal Healthcare Information obtained via EDI, Fax, Phone or Mail.",

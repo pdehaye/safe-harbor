@@ -60,7 +60,7 @@
     "industrysector_parsed": [
         "Financial Services - (FNS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-10-03",
     "orgverification": "Third Party",
     "personaldata": "Data is client/customer data around the processing and management of equity programs (stock options, shares, restricted shares etc).  In addition to this we maintain HR data for the employees of our clients that receive these equity awards.",

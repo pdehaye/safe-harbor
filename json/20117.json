@@ -45,7 +45,7 @@
         "Drugs & Pharmaceuticals - (DRG)",
         "Education & Training - (EDS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-02-03",
     "orgverification": "In-House",
     "personaldata": "Manual and electronic processing of personal data related to clinical trial eligibility criteria.  Only deidentified information is provided to Sponsor and Endeavour.  All data are destroyed once intended use is no longer active.",

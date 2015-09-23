@@ -59,7 +59,7 @@
         "Computer Services - (CSV)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-10-05",
     "orgverification": "Third party",
     "personaldata": "Organization, client and event participants including manually processed data",

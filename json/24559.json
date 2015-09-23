@@ -44,7 +44,7 @@
         "Information Services - (INF)",
         "Photographic Equipment - (PHT)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-10-07",
     "orgverification": "In-house",
     "personaldata": "The Data includes name, e-mail address, Opt In Permissions, and commerce transactions. For B2B data, this includes manually processed data. For consumer data there is no manually processed data. We do not collect sensitive PII data on our customers.",

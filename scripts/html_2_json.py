@@ -25,9 +25,13 @@ def parse_html(fileno):
     tmp["asp_index"] = fileno
     return tmp
 
-def html_2_json():
+def html_2_json(cli_filenos = None):
     print "Converting raw HTML files to raw JSON, simply though BeautifulSoup, and only where needed"
-    for fileno in html_filenos():
+    if cli_filenos:
+       filenos = cli_filenos
+    else:
+       filenos = html_filenos()
+    for fileno in filenos:
         if not fileno in archive_json_filenos():
             print "Doing", fileno
             corp = parse_html(fileno)
@@ -36,4 +40,6 @@ def html_2_json():
     print "Done converting"
 
 if __name__ == "__main__":
-    html_2_json()
+    import sys
+    print sys.argv[1:]
+    html_2_json(cli_filenos = [filename.strip(".html") for filename in sys.argv[1:] if ".html" in filename])

@@ -61,7 +61,7 @@
         "Computer Software - (CSF)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-09-03",
     "orgverification": "in-house",
     "personaldata": "name, address, phone/fax number, e-mail address, organization, title, password, credit card, bank account, correspondence, forum postings, email content, survey responses, message board postings, operating system, browser type, application and operating environment information, IP address, domain name, date/time stamps for web site visits, session & persistent cookies, navigational data like URL\u2019s",

@@ -60,7 +60,7 @@
     "industrysector_parsed": [
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-09-17",
     "orgverification": "In-house",
     "personaldata": "(1) BPS user authentication data; (2) Bloomberg security badge data; (3) Professional Development Data, whether online, offline, or manually processed; and (4) Electronic Record Management Services data.",

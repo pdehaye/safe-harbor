@@ -61,7 +61,7 @@
         "General Services - (GSV)",
         "Legal Services - (LES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-05-29",
     "orgverification": "in house",
     "personaldata": "All client provided data, in all formats.  And all internal personal data.",

@@ -61,7 +61,7 @@
         "Drugs & Pharmaceuticals - (DRG)",
         "Medical Equipment - (MED)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-07-05",
     "orgverification": "In-house",
     "personaldata": "Personal and personal health information. Some of the data may be manually processed.",

@@ -40,7 +40,7 @@
         "Employment Services - (EMP)",
         "Medical Equipment - (MED)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-08-19",
     "orgverification": "In-house",
     "personaldata": "Organization, client, customer and clinical trial (some BTE customers may participate in a clinical trial). All data has teh potential for manual processing although this is not primary.",

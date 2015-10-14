@@ -63,7 +63,7 @@
         "Medical Equipment - (MED)",
         "Veterinary Equipment & Supplies - (VET)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-07-16",
     "orgverification": "In-house",
     "personaldata": "Our system allows our customers and their agents to capture and store data collected from clinical trials, which may include information about study participants. It does not include manually processed data.",

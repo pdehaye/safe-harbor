@@ -31,7 +31,7 @@
         "Information Services - (INF)",
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-07-28",
     "orgverification": "Third Party PrivacyTrust Safe Harbor",
     "personaldata": "The information Applicable hold is provided by clients, we do not gather it ourselves via the website. The data we have been provided and held in our datacentres consists of emails, lync conversations, location information, documentation accessed etc.",

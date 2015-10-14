@@ -59,7 +59,7 @@
     "industrysector_parsed": [
         "Drugs & Pharmaceuticals - (DRG)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-05-21",
     "orgverification": "In-house/Self-certification",
     "personaldata": "Human resource, client, vendor, clinical trial data",

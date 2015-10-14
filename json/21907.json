@@ -49,7 +49,7 @@
         "Health Care Services - (HCS)",
         "Medical Equipment - (MED)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-03-04",
     "orgverification": "In-house verification",
     "personaldata": "off-line,on-line,manually processed data",

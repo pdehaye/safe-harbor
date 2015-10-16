@@ -59,7 +59,7 @@
     "industrysector_parsed": [
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-02-27",
     "orgverification": "In-house",
     "personaldata": "Real Magnet hosts lists for its customers.  These lists may contain sensitive information.  Real Magnet has no control over how data in its system was gathered.  However, it encourages customers to never import this type of data due to general internet security concerns.  None of our data is manually processed.",

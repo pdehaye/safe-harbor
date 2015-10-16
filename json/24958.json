@@ -59,7 +59,7 @@
     "industrysector_parsed": [
         "General Services - (GSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-10-12",
     "orgverification": "In-house",
     "personaldata": "Employees and Customer's employee's data, including (will vary by customer contract) Employee ID, Name, Home Address, Tax Identifiers, Compensation, Job information, Date of Hire/termination, Leave Status.  Information received from employee at call center is entered manually.",

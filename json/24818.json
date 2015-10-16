@@ -61,7 +61,7 @@
         "Information Services - (INF)",
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-09-30",
     "orgverification": "In-house",
     "personaldata": "This includes customer information about an identified or identifiable individual received in the course of providing Registry Services (including WHOIS data), DNS and call/text routing services. Please see above information about upcoming changes in Neustar's service offerings in the EU and/or Switzerland.  Covered data may include incidental manually processed data.",

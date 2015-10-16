@@ -40,7 +40,7 @@
         "Footwear - (FOT)",
         "Jewelry - (JLR)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-10-31",
     "orgverification": "In-house.",
     "personaldata": "Subject's name, address, email address, and tokenized payment information is securely transferred through encryption to a datacenter with web servers in the US for processing.",

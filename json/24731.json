@@ -31,7 +31,7 @@
         "Apparel - (APP)",
         "Giftware - (GFT)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-10-22",
     "orgverification": "In-house",
     "personaldata": "Customer data (name, email, address, telephone). It does include manually processed data.",

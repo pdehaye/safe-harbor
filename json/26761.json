@@ -62,7 +62,7 @@
         "Information Services - (INF)",
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-10-24",
     "orgverification": "in-house",
     "personaldata": "Data types: Customer contact and anonymized and aggregated patient data, compliant with HIPAA. Medical prescription data associated with prescribing physicians. Marketing and sales promotion and response data. All data is received from clients and their vendors via automated data transfer mechanisms and is applied to campaign and reporting systems through automated processes.",

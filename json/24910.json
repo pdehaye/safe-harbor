@@ -61,7 +61,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-10-31",
     "orgverification": "In-house",
     "personaldata": "Any personal data uploaded by our customers or their users to our system or generated through use of our system. The covered data does not include manually processed data on Kaltura's part, and our role in processing data is passive and limited to providing the technical platform for our customers' uses and purposes specified by the customer.",

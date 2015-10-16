@@ -63,7 +63,7 @@
         "Information Services - (INF)",
         "Packaging Eqpt (other than food) - (PKG)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-09-26",
     "orgverification": "In-house",
     "personaldata": "Company data; Consumer information data, including healthcare data, that is obtained through web interfaces, ScriptCenter kiosks, and pharmacy or retail store personnel. Information may be collected by phone from pharmacy or retail personnel for troubleshooting.",

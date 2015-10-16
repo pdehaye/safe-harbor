@@ -60,7 +60,7 @@
     "industrysector_parsed": [
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-10-10",
     "orgverification": "In-house",
     "personaldata": "Customer's employee data to include employee name, work address, work email (if provided), home address/phone/email (if provided) and other identifiable information required by the customer to support each program.",

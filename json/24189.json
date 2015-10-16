@@ -63,7 +63,7 @@
         "Information Services - (INF)",
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-08-15",
     "orgverification": "In-house",
     "personaldata": "Names and/or email address of Client employees invited to participate in an assessment project. LIS processing of such data  is automated.",

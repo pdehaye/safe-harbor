@@ -62,7 +62,7 @@
         "Information Services - (INF)",
         "Legal Services - (LES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-10-11",
     "orgverification": "in-house, audits by IT and legal depts.",
     "personaldata": "off-line, manually processed data",

@@ -62,7 +62,7 @@
         "Information Services - (INF)",
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-11-14",
     "orgverification": "In-house",
     "personaldata": "Client's customer and transaction data, including name, address, phone number, and email.  We do not process or store identifiable payment information.  Client data is collected online and offline and may be manually processed.",

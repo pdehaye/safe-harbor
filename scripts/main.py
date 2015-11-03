@@ -4,7 +4,7 @@ from polish_json import polish_json
 from datapackage import datapackage
 import sys
 
-delay = 10
+delay = 100
 if len(sys.argv) == 2:
     delay = int(sys.argv[1])
 

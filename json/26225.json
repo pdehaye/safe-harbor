@@ -63,7 +63,7 @@
         "Information Services - (INF)",
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-11-14",
     "orgverification": "In-house and Third-Party",
     "personaldata": "online, offline, manually processed; customer and client data.",

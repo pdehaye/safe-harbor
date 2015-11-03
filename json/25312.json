@@ -59,7 +59,7 @@
         "Computer Services - (CSV)",
         "General Services - (GSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-10-22",
     "orgverification": "In-House",
     "personaldata": "trip data; client data; off-line; manually processed; website data; HR data",

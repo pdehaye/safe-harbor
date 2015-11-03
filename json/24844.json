@@ -37,7 +37,7 @@
         "Computer Software - (CSF)",
         "Drugs & Pharmaceuticals - (DRG)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-11-02",
     "orgverification": "In-house",
     "personaldata": "Customer organization, contact and transaction information",

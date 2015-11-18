@@ -60,7 +60,7 @@
         "Transportation Srvs (Except Aviation) - (TRN)",
         "Travel & Tourism Services - (TRA)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-11-10",
     "orgverification": "in-house",
     "personaldata": "Customer, client, organization, visitor, employee and independent contractor data.  Manually processed data may include printed resumes or other HR material submitted by job applicants or independent contractors, and some inquiries or reservations received through the mail or by fax.",

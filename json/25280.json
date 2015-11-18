@@ -60,7 +60,7 @@
         "General Services - (GSV)",
         "Investment Service - (INV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-11-10",
     "orgverification": "In - House",
     "personaldata": "Offline, manually processed data and human resource data.",

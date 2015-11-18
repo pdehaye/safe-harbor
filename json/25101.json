@@ -60,7 +60,7 @@
         "Computer Software - (CSF)",
         "Education & Training - (EDS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-12-08",
     "orgverification": "In-house",
     "personaldata": "name;  city and state; school email address; password; nickname; IP address; grade evel; and school.  For customers using Clever integration we also collect date of birth, gender, ethnicity and race. Manually collected data is covered.",

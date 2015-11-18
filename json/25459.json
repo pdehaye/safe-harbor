@@ -46,7 +46,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-12-03",
     "orgverification": "In-house",
     "personaldata": "Data regarding our customers' personnel who are users of our SAAS software, plus the personal data they submit to the software regarding their trading partners and employees for export compliance screening and executing trade transactions",

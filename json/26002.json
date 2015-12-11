@@ -63,7 +63,7 @@
         "Information Services - (INF)",
         "Travel & Tourism Services - (TRA)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-12-11",
     "orgverification": "Third Party",
     "personaldata": "offline, on-line, manually processed data, human resources data",

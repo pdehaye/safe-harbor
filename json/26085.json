@@ -59,7 +59,7 @@
     "industrysector_parsed": [
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-01-02",
     "orgverification": "In-house",
     "personaldata": "Marketing data is processed and may include some or all of the following for each end-consumer: First name, last name, country, state/province, county, city, postal code, phone number, email address. Data is not processed manually by Dovetail but may be by Dovetail clients.",

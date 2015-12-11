@@ -47,7 +47,7 @@
         "Health Care Services - (HCS)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-12-13",
     "orgverification": "In-house",
     "personaldata": "EKG records that include patient demographics",

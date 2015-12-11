@@ -61,7 +61,7 @@
         "Computer Software - (CSF)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-12-12",
     "orgverification": "in-house",
     "personaldata": "Customer, client, and organization data including name, address, date of birth, identification type, identification number, identification issuing agency and phone number. In certain circumstances, there may be manual verification of the information.",

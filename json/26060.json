@@ -61,7 +61,7 @@
         "Computer Services - (CSV)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-01-16",
     "orgverification": "In-house",
     "personaldata": "Email address, and (all optionally) name, telephone, location, time zone and language",

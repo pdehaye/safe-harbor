@@ -56,7 +56,7 @@
     "industrysector_parsed": [
         "Drugs & Pharmaceuticals - (DRG)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-01-10",
     "orgverification": "In-house self assessment",
     "personaldata": "Pharm-Olam obtains personal data from its employees,contractors,clients,customers, this data is manually entered by Pharm-Olam. The clinical trial data from clinical research patients/subjects obtained from the investigator is entered in to a secured, 21 CRF part II compliant database by the investigator or Pharm-Olam employees.",

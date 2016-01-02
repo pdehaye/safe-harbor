@@ -60,7 +60,7 @@
     "industrysector_parsed": [
         "Education & Training - (EDS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-01-09",
     "orgverification": "In-house",
     "personaldata": "The people-related information collected through the Safe Passage web-based training system is used to establish individual user accounts. Each user account must contain (1) Last Name, (2) First Name, (3) User ID, (4) Password, and (5) Access Level. Each user account may also contain optional people-related information. The optional people-related information is (1) Address, (2) Phone Number, and",

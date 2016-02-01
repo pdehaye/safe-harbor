@@ -62,7 +62,7 @@
         "Information Services - (INF)",
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-02-19",
     "orgverification": "In-house",
     "personaldata": "Client/Customer contact information such as name, email address, mailing address, phone number. Information about their business such as company name, company size, business type. May be online or data received offline.",

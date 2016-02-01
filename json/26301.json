@@ -62,7 +62,7 @@
         "Drugs & Pharmaceuticals - (DRG)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-14",
     "orgverification": "In-house",
     "personaldata": "Organization, clinical trial data, client",

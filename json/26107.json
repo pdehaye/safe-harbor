@@ -60,7 +60,7 @@
     "industrysector_parsed": [
         "Drugs & Pharmaceuticals - (DRG)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-01-27",
     "orgverification": "Third Party- ISP Associates, North Andover, MA",
     "personaldata": "Off-line, on-line, manually collected and processed data for clinical studies.",

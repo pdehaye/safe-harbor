@@ -63,7 +63,7 @@
         "Drugs & Pharmaceuticals - (DRG)",
         "General Services - (GSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-11-08",
     "orgverification": "In-house",
     "personaldata": "Clinical subject trial data, clinical investigator data, third party clinical site personnel data, and current and potential employee and contractor data",

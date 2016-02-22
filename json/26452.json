@@ -43,7 +43,7 @@
         "Biotechnology - (BTC)",
         "Drugs & Pharmaceuticals - (DRG)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-02-15",
     "orgverification": "In-house",
     "personaldata": "all study subject data, including manually processed data, provided for collection and/or analysis to support clinical trials",

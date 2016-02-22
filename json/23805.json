@@ -34,7 +34,7 @@
     "industrysector_parsed": [
         "Biotechnology - (BTC)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-07-17",
     "orgverification": "Outside consultant and in-house",
     "personaldata": "Medical history, physical exam, laboratory test data, date of birth, initials, gender, adverse events, medication history and concomitant medications. (Data is collected either in an electronic case report form or paper case report forms.)",

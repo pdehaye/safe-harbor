@@ -62,7 +62,7 @@
         "General Services - (GSV)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-02-09",
     "orgverification": "TRUSTe (third party)",
     "personaldata": "Offline, online, manually processed data",

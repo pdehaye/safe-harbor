@@ -62,7 +62,7 @@
         "Computer Services - (CSV)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-11-18",
     "orgverification": "In-house and via SSAE 16 SOC 2 Type II audits",
     "personaldata": "On-Line, Off-Line,  Manually Processed Data, Human Resources Data",

@@ -61,7 +61,7 @@
         "Computer Software - (CSF)",
         "Drugs & Pharmaceuticals - (DRG)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-12-19",
     "orgverification": "In-house",
     "personaldata": "Our application allows users to enter business contact information (name/contact information/CV/etc.). Only the login ID is required.  None is available outside our secure platform.  User retains full rights to manage privacy restrictions in admin panel.",

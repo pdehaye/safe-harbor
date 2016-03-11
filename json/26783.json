@@ -61,7 +61,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-13",
     "orgverification": "Third Party",
     "personaldata": "Authentication data (e.g., email address, password). Data does not include data manually processed by OneLogin.",

@@ -44,7 +44,7 @@
     "industrysector_parsed": [
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-01-03",
     "orgverification": "Third Party",
     "personaldata": "demographic information (age, gender, ethnicity, etc), customer name and email address",

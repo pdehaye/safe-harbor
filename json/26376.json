@@ -62,7 +62,7 @@
         "Insurance Services - (INS)",
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-01-17",
     "orgverification": "In-House",
     "personaldata": "HR data; client and client employee/beneficiary/dependent data (HRT and Workday implemention services); other individuals to the extent that their data is transmitted to/from Towers Watson via email or the Internet, and blocked by the company's data loss prevention software system.",

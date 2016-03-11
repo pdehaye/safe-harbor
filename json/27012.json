@@ -61,7 +61,7 @@
         "Computer Software - (CSF)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-09",
     "orgverification": "In-house",
     "personaldata": "First name, last name, email address, logging data elements including items like the # of produce servings, # of steps logged, # of physical activity minutes logged.",

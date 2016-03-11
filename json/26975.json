@@ -63,7 +63,7 @@
         "Information Services - (INF)",
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-25",
     "orgverification": "In-house",
     "personaldata": "User account information (email and payment address) that is entered by the customer at the time of online subscription.",

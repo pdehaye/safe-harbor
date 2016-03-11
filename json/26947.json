@@ -39,7 +39,7 @@
     "industrysector_parsed": [
         "General Services - (GSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-18",
     "orgverification": "In-house",
     "personaldata": "Consumer transaction data associated with card-not-present purchases of goods and services",

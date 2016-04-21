@@ -29,7 +29,7 @@
     "industrysector_parsed": [
         "Advertising Services - (ADV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-11",
     "orgverification": "In-house",
     "personaldata": "email address, first name, last name, postal address, gender, employment status, phone number, sign up source domain (website), sign up IP address. All data will be processed via API.",

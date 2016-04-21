@@ -62,7 +62,7 @@
         "Information Services - (INF)",
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-13",
     "orgverification": "In-House",
     "personaldata": "Company employee personal information and client-supplied data. Client-supplied data may be loaded directly to our secure platform, or may be processed (indexed and converted) upon receipt.",

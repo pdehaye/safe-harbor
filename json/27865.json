@@ -60,7 +60,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-04-27",
     "orgverification": "In-house",
     "personaldata": "Onit acts as a data processor for our clients. Typically, data collected is around email address and full name.  Onit does not process data off-line. Our clients determine the types of PII to be stored at Onit.",

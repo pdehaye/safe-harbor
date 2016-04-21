@@ -61,7 +61,7 @@
         "Computer Services - (CSV)",
         "General Science & Technology - (GST)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-04-24",
     "orgverification": "In-house",
     "personaldata": "first name, last name, email address, account password, credit/debit card information, billing postal code, web browser statistics, ip address",

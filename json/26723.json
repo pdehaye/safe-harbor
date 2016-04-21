@@ -62,7 +62,7 @@
         "Employment Services - (EMP)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-04",
     "orgverification": "In-house",
     "personaldata": "Employment screening data from customers, which may include manually processed data. Organizational information from First Advantage may also be processed.",

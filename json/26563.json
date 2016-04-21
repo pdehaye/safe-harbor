@@ -61,7 +61,7 @@
         "Computer Software - (CSF)",
         "Financial Services - (FNS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-02-26",
     "orgverification": "In-house",
     "personaldata": "Customer data including name, address, credit or debit card number, and email address. In certain situations, additional questions may be asked of the customer online or via agent representation to verify identity in the purchasing process.",

@@ -45,7 +45,7 @@
         "Drugs & Pharmaceuticals - (DRG)",
         "Foods Processed - (FOD)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-30",
     "orgverification": "in-house",
     "personaldata": "Customer name, address, email & telephone number, billing information, including payment information, &, if applicable, birthdate. Independent representative name, address, email & telephone number, &, if applicable, spouse name, payment information, identification number & birthdate.  Visitor contact name, address, email & telephone number.  Data includes manually processed data.",

@@ -41,7 +41,7 @@
         "Drugs & Pharmaceuticals - (DRG)",
         "Electrical Power Systems - (ELP)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-05-15",
     "orgverification": "in-house",
     "personaldata": "organization, client, customer can be modified manually",

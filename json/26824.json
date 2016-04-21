@@ -61,7 +61,7 @@
         "Computer Services - (CSV)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-02-25",
     "orgverification": "Self-Assessment",
     "personaldata": "Name, age, gender, height, weight, hockey statistics, education level, work experience, contact information, payment information",

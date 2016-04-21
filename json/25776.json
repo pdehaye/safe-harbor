@@ -35,7 +35,7 @@
         "General Services - (GSV)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-04-10",
     "orgverification": "In-house self-assessment.",
     "personaldata": "We process below data: \u2022\tFirstname, Lastname, Full name of users. \u2022\tEmail address \u2022\tPhone/Fax, as applicable to specific process. \u2022\tSocial security #, applicable only for Credit processing. \u2022\tBank account information, applicable for Cash/Credit processing",

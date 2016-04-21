@@ -60,7 +60,7 @@
         "Accounting Services - (ACT)",
         "Financial Services - (FNS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-04-08",
     "orgverification": "Both: Third Party and In-House",
     "personaldata": "Demographic Information and Customer Financial Information.  Customer Financial Information includes bank balance information. We store Demographic information specifically given to us by our users through the account set up process, and or the account edit process. In addition, we store IP Address, browser type, Internet service provider (ISP) and access times.",

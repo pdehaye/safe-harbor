@@ -48,7 +48,7 @@
     "industrysector_parsed": [
         "Travel & Tourism Services - (TRA)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-26",
     "orgverification": "In-House Self-Certification",
     "personaldata": "Last Name, First Name, Employee ID, E-Mail, Address, Flight Information, Frequent Flyer Information/Preferences, Form of Payment Information (Credit Card Numbers are Masked); Some data is manually processed",

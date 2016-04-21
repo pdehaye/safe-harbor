@@ -35,7 +35,7 @@
     "industrysector_parsed": [
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-02-28",
     "orgverification": "In-house",
     "personaldata": "Data processed by Global Response within the Safe Harbor framework generally falls under the category of customer data. Some of this data is manually processed, and all data is processed in compliance with US PCI DSS and/or HIPAA standards.",

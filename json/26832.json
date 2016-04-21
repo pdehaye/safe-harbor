@@ -61,7 +61,7 @@
         "Computer Software - (CSF)",
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-02-20",
     "orgverification": "in-house",
     "personaldata": "email, password, facebook credentials, logs about activity in the application",

@@ -63,7 +63,7 @@
         "Medical Equipment - (MED)",
         "Veterinary Equipment & Supplies - (VET)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-04-02",
     "orgverification": "in-house",
     "personaldata": "Electronic clinical trial data.  The data does not include manually processed data.",

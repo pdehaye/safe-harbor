@@ -61,7 +61,7 @@
         "General Services - (GSV)",
         "Health Care Services - (HCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-04-15",
     "orgverification": "In-house",
     "personaldata": "Participant biometric and health questionnaire data. Biometric data not collected by the kiosk (e.g., on-site screening data) is manually entered into the system (via secure web form) and then processed automatically.",

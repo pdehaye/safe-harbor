@@ -60,7 +60,7 @@
         "Computer Services - (CSV)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-30",
     "orgverification": "In-house",
     "personaldata": "IP Addresses from visits to websites; HR Data",

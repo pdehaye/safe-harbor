@@ -61,7 +61,7 @@
         "Medical Equipment - (MED)",
         "Telecommunications Equipment - (TEL)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-04-21",
     "orgverification": "In-house",
     "personaldata": "off-line, online, manually processed.",

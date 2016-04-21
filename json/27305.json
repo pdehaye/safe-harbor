@@ -61,7 +61,7 @@
         "Employment Services - (EMP)",
         "Financial Services - (FNS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-22",
     "orgverification": "In-house",
     "personaldata": "Client human resources data; Online and offline personal information pertaining to prospective, current and former employees and other human resources data; data processed by the Trusted Platform Security Infrastructure and related technologies that provide advanced prevention, detection, response and intelligence capabilities to protect ADP, LLC and the employee and client data it processes.",

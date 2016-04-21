@@ -60,7 +60,7 @@
         "Financial Services - (FNS)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-04-03",
     "orgverification": "In-house",
     "personaldata": "human resources data; names, city, country, family size, salary range",

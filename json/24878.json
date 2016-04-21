@@ -62,7 +62,7 @@
         "Consumer Electronics - (CEL)",
         "General Consumer Goods - (GCG)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-02-25",
     "orgverification": "In-house",
     "personaldata": "Organization data, including HR data, visitor data, data from our independent dealers and consumer and potental consumer data.  These data may include manually processed data.",

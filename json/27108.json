@@ -59,7 +59,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-15",
     "orgverification": "In-house",
     "personaldata": "Customer data: including name, address and billing information, and email addresses. Phone numbers are optional.",

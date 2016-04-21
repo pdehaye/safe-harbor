@@ -58,7 +58,7 @@
         "Financial Services - (FNS)",
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-30",
     "orgverification": "TRUSTe",
     "personaldata": "MSISDN (mobile phone number)",

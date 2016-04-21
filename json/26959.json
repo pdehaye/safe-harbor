@@ -61,7 +61,7 @@
         "Drugs & Pharmaceuticals - (DRG)",
         "Education & Training - (EDS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-04-30",
     "orgverification": "In-house",
     "personaldata": "Client and User data.  This data is manually processed.",

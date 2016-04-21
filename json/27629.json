@@ -60,7 +60,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-04-26",
     "orgverification": "In-house",
     "personaldata": "When a clients participating HCP (Healthcare Practioner) joins Within3 we ask for information such as first, middle, and last name, email address, educational history, professional history, licenses, languages spoken, medical affiliation.",

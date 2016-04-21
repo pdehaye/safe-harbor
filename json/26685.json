@@ -61,7 +61,7 @@
         "Computer Services - (CSV)",
         "Education & Training - (EDS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-05",
     "orgverification": "Third party",
     "personaldata": "Client information that may include name, identification numbers, and scheduling information.",

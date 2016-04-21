@@ -63,7 +63,7 @@
         "Financial Services - (FNS)",
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-04-01",
     "orgverification": "In-House",
     "personaldata": "All client and customer personal data and data provided to us by clients to process on their behalf. This includes data that is manually processed and electronic, online or offline.",

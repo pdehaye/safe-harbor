@@ -28,7 +28,7 @@
         "Computer Services - (CSV)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-04-08",
     "orgverification": "self assessment",
     "personaldata": "Name, email address,organization. Does not include manually processed data.",

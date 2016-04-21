@@ -61,7 +61,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-04",
     "orgverification": "In-house",
     "personaldata": "Information received into the program by client: user ID #, first name, last name, email address).  Information manually entered into the program by a participant: address 1, address 2, city, postal code, city/town/location, country",

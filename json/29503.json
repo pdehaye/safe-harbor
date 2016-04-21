@@ -61,7 +61,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-02-28",
     "orgverification": "In-house",
     "personaldata": "Email addresses and names are received by our system, and we track usage of our system by user accounts that are tied to such email addresses. There is no \"manually processed\" data.",

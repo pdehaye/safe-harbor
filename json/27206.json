@@ -61,7 +61,7 @@
         "Computer Services - (CSV)",
         "Drugs & Pharmaceuticals - (DRG)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-04-16",
     "orgverification": "Foresight uses its in house Quality Assurance",
     "personaldata": "Global Pharmacovigilance data entered by Foresight's client's and stored in our encrypted database",

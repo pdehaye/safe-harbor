@@ -61,7 +61,7 @@
         "Computer Software - (CSF)",
         "Electronic Components - (ELC)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-17",
     "orgverification": "in-house",
     "personaldata": "Name, phone numbers, and email addresses.  Processed both automatically and/or manually, depending on VBrick's customer who is providing such personal data.",

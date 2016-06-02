@@ -62,7 +62,7 @@
         "Drugs & Pharmaceuticals - (DRG)",
         "Medical Equipment - (MED)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-18",
     "orgverification": "In-house",
     "personaldata": "client",

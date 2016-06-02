@@ -61,7 +61,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-04-27",
     "orgverification": "In-House",
     "personaldata": "Personal data submitted by customers to Marketo\u2019s services, business partner data; online data from Marketo\u2019s web sites; and offline and manual data",

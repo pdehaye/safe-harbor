@@ -60,7 +60,7 @@
     "industrysector_parsed": [
         "Computer Services - (CSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-04-30",
     "orgverification": "In-house",
     "personaldata": "ESPO does not come into contact with any \"personal data\" via our remote installations.  However, we do leverage IT Security Controls (DLP Primarily) via the Websense Security Tools that our engineers install for Websense clients.",

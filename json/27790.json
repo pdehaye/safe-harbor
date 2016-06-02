@@ -60,7 +60,7 @@
     "industrysector_parsed": [
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-05-19",
     "orgverification": "In-house",
     "personaldata": "customer contact data, customer provided contact data for customer's business locations and individuals at those locations, contact data collected through website forms and phone recordings as part of the notification services. Data is sometimes manually processed for formatting.",

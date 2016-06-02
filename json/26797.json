@@ -61,7 +61,7 @@
         "Drugs & Pharmaceuticals - (DRG)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-14",
     "orgverification": "Third Party",
     "personaldata": "On-line data and manually processed data",

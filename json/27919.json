@@ -60,7 +60,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-05-01",
     "orgverification": "In-house",
     "personaldata": "Personal data required for the conduct of Tealium's business: human resources data, partner data, supplier data, customer data, and data submitted by customers using Tealium services.",

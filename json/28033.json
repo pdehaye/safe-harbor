@@ -51,7 +51,7 @@
     "industrysector_parsed": [
         "Drugs & Pharmaceuticals - (DRG)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-05-09",
     "orgverification": "In-house",
     "personaldata": "Cognitive test data from clinical trials that is electronically and manually processed",

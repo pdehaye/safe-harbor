@@ -61,7 +61,7 @@
         "General Services - (GSV)",
         "Health Care Services - (HCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-02",
     "orgverification": "In-house",
     "personaldata": "Corporate customer names, customer phone, customer address, customer credit card information",

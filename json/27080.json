@@ -61,7 +61,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-02-18",
     "orgverification": "Third Party",
     "personaldata": "Customer and other user information entered or collected as part of the log-in process. Cloudera does not include manually processed data.",

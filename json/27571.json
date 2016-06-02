@@ -62,7 +62,7 @@
         "Health Care Services - (HCS)",
         "Travel & Tourism Services - (TRA)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-04-22",
     "orgverification": "in-house",
     "personaldata": "client/customer data (including manually processed data) pertaining to meeting invitees/meeting attendees",

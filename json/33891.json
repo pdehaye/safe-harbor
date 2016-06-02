@@ -58,7 +58,7 @@
         "Financial Services - (FNS)",
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2017-03-30",
     "orgverification": "Truste",
     "personaldata": "MSISDN (mobile phone number), name and address for customers contacting boku for customer services",

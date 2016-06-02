@@ -40,7 +40,7 @@
         "Drugs & Pharmaceuticals - (DRG)",
         "Medical Equipment - (MED)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-18",
     "orgverification": "In-house",
     "personaldata": "Human resources data, clinical research and investigations data, including data on health care professionals, investigators and clinical investigation subjects, medical information, contract management data, business partner, customer, patient, government official, and supplier data, including contact data, with provision in all formats, including electronically stored and manually processed data.",

@@ -1,7 +1,7 @@
-Safe Harbor filings with the Federal Trade Commission
-=====================================================
+Safe Harbor filings with the Department of Commerce
+===================================================
 
-This GIT repository contains a scrape of the database of companies on the Federal Trade Commission's Safe Harbor site, located at
+This GIT repository contains a scrape of the database of companies on the Department of Commerce's Safe Harbor site, located at
 https://safeharbor.export.gov/list.aspx
 
 For more information about the Safe Harbor Privacy Principles regulating EU-US and CH-US data exchange, please consult [Wikipedia](http://en.wikipedia.org/wiki/International_Safe_Harbor_Privacy_Principles). Compliance with those principles is a pre-requirement for running a business in the European Union that collects personal data. Any European citizen, regardless of where they live, is supposed to be protected by those principles, as well as any resident of the EU or Switzerland. 

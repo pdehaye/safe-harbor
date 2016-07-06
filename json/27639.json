@@ -59,7 +59,7 @@
     "industrysector_parsed": [
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-04-11",
     "orgverification": "Third Party",
     "personaldata": "Whatever data the client decides to host. There is no manually processed data.",

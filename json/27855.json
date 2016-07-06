@@ -30,7 +30,7 @@
     "industrysector_parsed": [
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-04-23",
     "orgverification": "In-house",
     "personaldata": "Name, delivery address, corporate email address, company name, business units (optional), phone (optional), job title (optional)",

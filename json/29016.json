@@ -60,7 +60,7 @@
     "industrysector_parsed": [
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-15",
     "orgverification": "in-house",
     "personaldata": "Clinical trial data, organization, customer, personal contact information. Organization is manually processed, all else is automatic.",

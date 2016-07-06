@@ -62,7 +62,7 @@
         "Computer Software - (CSF)",
         "Drugs & Pharmaceuticals - (DRG)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-05-29",
     "orgverification": "In-house",
     "personaldata": "Medical and clinical trial contact information received from clients (off-line, on-line, manually processed)",

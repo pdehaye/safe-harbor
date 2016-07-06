@@ -56,7 +56,7 @@
         "Computer Software - (CSF)",
         "Health Care Services - (HCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-13",
     "orgverification": "in-house and third party (TRUSTe)",
     "personaldata": "email address and typed name.  These are encrypted and highly protected, in compliance with US HIPAA rules, and accessibly only by authorised individuals who need to access this information under compliance with Privacy rules and laws.",

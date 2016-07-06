@@ -63,7 +63,7 @@
         "Computer Software - (CSF)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-24",
     "orgverification": "in-house",
     "personaldata": "name, email address, profile picture or avatar, unique user ID corresponding to the login service(s) used to authenticate (e.g., Github username, if user logs in using Github), other personal information which the user add to their profile",

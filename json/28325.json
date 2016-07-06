@@ -60,7 +60,7 @@
     "industrysector_parsed": [
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-06-24",
     "orgverification": "in-house",
     "personaldata": "All manually processed data:  SSN, Birth dates, previous work experience, education experience, client data, passwords",

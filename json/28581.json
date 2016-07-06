@@ -58,7 +58,7 @@
         "Information Services - (INF)",
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-06-17",
     "orgverification": "in house",
     "personaldata": "XO provides Infrastructure as a Service (IaaS) cloud computing solutions to corporate clients (Client(s)). The resources used by XO to provide the IaaS cloud services do not permit XO to access information controlled or processed by Clients.",

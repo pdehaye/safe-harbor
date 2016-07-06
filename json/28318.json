@@ -63,7 +63,7 @@
         "Drugs & Pharmaceuticals - (DRG)",
         "Health Care Services - (HCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-06-18",
     "orgverification": "In-House",
     "personaldata": "Personal data processed by BBK and covered under this self-certification includes organizational, client, prospective customer, user, and visitor information. This data is collected and processed both on- and offline.",

@@ -57,7 +57,7 @@
     "industrysector_parsed": [
         "Computer Services - (CSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-05",
     "orgverification": "in-house",
     "personaldata": "The personal data for employees, long-term contractors and their vendors or customers as submitted by the customer in the customer's ITRP account. This data is stored in the ITRP database and transmitted (encrypted) when the information needs to be accessed by the customer. The data is not entered or accessed by the ITRP Institute.",

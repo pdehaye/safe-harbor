@@ -60,7 +60,7 @@
     "industrysector_parsed": [
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-07",
     "orgverification": "in-house",
     "personaldata": "Personal identifiers like name, email, telephone number, password for user that use the Sookasa service. Personal information that may be included in files or in file metadata stored by our customers on file sharing service. Sookasa does not process any data manually.",

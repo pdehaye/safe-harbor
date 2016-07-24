@@ -60,7 +60,7 @@
         "Telecommunications Equipment - (TEL)",
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-09",
     "orgverification": "in-house",
     "personaldata": "Business email address, business telephone number, business telephone extension, cellular telephone number (on occasion personal cellular number), business office address, call detail records for each call placed and received, login information, including user name and password, customer financial information, and customer\u2019s recorded call information (if customer has such recording feature).",

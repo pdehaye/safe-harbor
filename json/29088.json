@@ -61,7 +61,7 @@
         "Telecommunications Equipment - (TEL)",
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-13",
     "orgverification": "in-house",
     "personaldata": "First Name, Last Name, User ID, emailaddress, phone number, internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, your operating system, date/time stamp, processor or device serial number, unique device identifier, and clickstream data",

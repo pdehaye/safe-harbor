@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "415-623-1059",
     "OrgName": "Lucasfilm Ltd.",
     "PPLoc": "https://disneyprivacycenter.com/safe-harbor/lucasfilm-ltd-llc/",
@@ -58,7 +57,7 @@
         "Films Videos & Other Recordings - (FLM)",
         "Toy & Games - (TOY)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-23",
     "orgverification": "in-house verification",
     "personaldata": "On-Line Human Resources and vendor data",

@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "",
     "OrgName": "HEVC Advance, LLC",
     "PPLoc": "hevcadvance.com/privacypolicy.html",
@@ -62,7 +61,7 @@
         "Computer & Peripherals - (CPT)",
         "Consumer Electronics - (CEL)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-05-11",
     "orgverification": "In-house",
     "personaldata": "Customer data; includes manually processed data",

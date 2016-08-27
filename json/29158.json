@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "682-606-9193",
     "OrgName": "GetThere, L.P., a subsidiary of Sabre GLBL Inc.",
     "PPLoc": "http://www.getthere.com/home/about/privacy_policy ",
@@ -56,7 +55,7 @@
     "industrysector_parsed": [
         "Travel & Tourism Services - (TRA)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-26",
     "orgverification": "In-House",
     "personaldata": "Personal data about European travelers processed through GetThere's online travel booking tool.",

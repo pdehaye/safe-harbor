@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "415-901-7040",
     "OrgName": "salesforce.com, inc.",
     "PPLoc": "http://www.salesforce.com/company/privacy/full_privacy.jsp ",
@@ -60,7 +59,7 @@
     "industrysector_parsed": [
         "Computer Services - (CSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-01",
     "orgverification": "Third Party - TRUSTe",
     "personaldata": "Personal data submitted by customers to Salesforce's services; human resources data; customer data; partner data; supplier data; prospective customer data",

@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "(203)564-8217",
     "OrgName": "Castleton Commodities International LLC",
     "PPLoc": "See link below",
@@ -28,7 +27,7 @@
     "industrysector": "Coal - (COL)Oil Gas Mineral -(OGS)\r\nOil Gas Mineral Production",
     "industrysector_parsed": [
         "Coal - (COL)",
-        "Oil Gas Mineral -(OGS)\r\nOil Gas Mineral Production"
+        "Oil Gas Mineral -(OGS)"
     ],
     "latest": "false",
     "nextcertification": "2015-09-03",

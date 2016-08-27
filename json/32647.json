@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "407-332-1802",
     "OrgName": "Toptech Systems, Inc.",
     "PPLoc": "www.toptech.com/privacy ",
@@ -59,7 +58,7 @@
     "industrysector_parsed": [
         "Aviation Services - (AVS)",
         "Oil & Gas Field Machinery - (OGM)",
-        "Oil Gas Mineral -(OGS)\r\nOil Gas Mineral Production",
+        "Oil Gas Mineral -(OGS)",
         "Renewable Energy Equipment - (REQ)"
     ],
     "latest": "true",

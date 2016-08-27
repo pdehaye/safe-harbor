@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "281-579-7505",
     "OrgName": "Sercel Inc",
     "PPLoc": "http://www.sercel.com/Privacy.aspx ",
@@ -32,7 +31,7 @@
     "hrdata": "true",
     "industrysector": "Oil Gas Mineral -(OGS)\r\nOil Gas Mineral Production",
     "industrysector_parsed": [
-        "Oil Gas Mineral -(OGS)\r\nOil Gas Mineral Production"
+        "Oil Gas Mineral -(OGS)"
     ],
     "latest": "true",
     "nextcertification": "2017-02-18",

@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "678-728-7170",
     "OrgName": "Credigy Solutions Inc. (and its U.S. affiliates wholly owned by Credigy Ltd.)",
     "PPLoc": "http://www.credigy.net/docs/CredigySafeHarborPolicy.pdf ",
@@ -56,7 +55,7 @@
     "industrysector_parsed": [
         "Financial Services - (FNS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-30",
     "orgverification": "In-house",
     "personaldata": "client, customer, business contacts, including manually processed and online data",

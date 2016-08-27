@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "312-629-5299",
     "OrgName": "Berkeley Research Group, LLC",
     "PPLoc": "http://www.brg-expert.com/privacy.html ",
@@ -61,7 +60,7 @@
         "Health Care Services - (HCS)",
         "Legal Services - (LES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-09",
     "orgverification": "In-House",
     "personaldata": "personal information could be in organizational/client data, customer data and clinical trial data",

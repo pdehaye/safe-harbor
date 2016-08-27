@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "415-690-7150",
     "OrgName": "GoodData Corporation",
     "PPLoc": "http://www.gooddata.com/privacy-policy ",
@@ -65,7 +64,7 @@
     ],
     "latest": "true",
     "nextcertification": "2017-05-05",
-    "orgverification": "Third Party",
+    "orgverification": "Inhouse and TRUSTe",
     "personaldata": "Customer-loaded data",
     "ppdate": "2014-06-12",
     "previous": "34435",

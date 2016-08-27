@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "847-296-5636",
     "OrgName": "Ex Libris (USA) Inc",
     "PPLoc": "http://www.exlibrisgroup.com/category/Privacy ",
@@ -59,7 +58,7 @@
     "industrysector_parsed": [
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-06-21",
     "orgverification": "In-house",
     "personaldata": "Client Personal data automatically processed",

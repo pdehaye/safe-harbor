@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "212-896-6550",
     "OrgName": "DWNLD, Inc.",
     "PPLoc": "https://dwnld.me/privacy-policy/",
@@ -61,7 +60,7 @@
         "Computer Software - (CSF)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-31",
     "orgverification": "In-house",
     "personaldata": "Name, phone number, email address, username, page visits, time of session, links clicked, none of the data is manually processed",

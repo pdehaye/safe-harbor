@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "(614) 921-2451",
     "OrgName": "2Checkout.com, Inc.",
     "PPLoc": "https:/ www.2checkout.com/policies/privacy-policy ",
@@ -62,7 +61,7 @@
         "Financial Services - (FNS)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-30",
     "orgverification": "In-house",
     "personaldata": "Personal Data of clients and their customers that is processed on-line, off-line and manually",

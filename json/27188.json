@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "855-662-4875",
     "OrgName": "MobiWork LLC",
     "PPLoc": "www.mobiwork.com/en/privacy.html ",
@@ -61,7 +60,7 @@
         "Computer Software - (CSF)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-13",
     "orgverification": "TRUSTe",
     "personaldata": "On-Line, Off-Line Business to Business Customer information",

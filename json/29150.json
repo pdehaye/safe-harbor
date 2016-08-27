@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "212-255-6357",
     "OrgName": "The Cluen Corporation",
     "PPLoc": "http://www.cluen.com/contact.aspx ",
@@ -60,7 +59,7 @@
     "industrysector_parsed": [
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-15",
     "orgverification": "In-House",
     "personaldata": "executive search research",

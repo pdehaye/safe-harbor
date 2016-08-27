@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "724-514-9494",
     "OrgName": "ANSYS, Inc.",
     "PPLoc": "http://www.ansys.com/Footer/Full+Privacy+Statement ",
@@ -62,7 +61,7 @@
         "Computer Software - (CSF)",
         "General Science & Technology - (GST)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-14",
     "orgverification": "Self-assessment",
     "personaldata": "Data received during business activities, including user data, unlicensed use data, support data, data analysis, sales and other transactions, marketing data and activities;Data processed relating to customers\u2019 use of products and submitted to a hosted product; HR data;visitors\u2019 data; Data processed as a data controller and as a data processor on behalf of data controllers;Manually processed data.",

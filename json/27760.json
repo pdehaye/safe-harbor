@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "(415) 590-7399",
     "OrgName": "OPSWAT, Inc.",
     "PPLoc": "https:/ www.opswat.com/privacy ",
@@ -41,7 +40,7 @@
     "industrysector_parsed": [
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-30",
     "orgverification": "in-house",
     "personaldata": "any data about an identified or identifiable individual, excluding manually processed data",

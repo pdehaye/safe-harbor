@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "518-583-0394",
     "OrgName": "IVR Clinical Concepts Inc",
     "PPLoc": "http://www.ivrcc.com/privacy-policy/ ",
@@ -63,7 +62,7 @@
         "Drugs & Pharmaceuticals - (DRG)",
         "Health Care Services - (HCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-20",
     "orgverification": "Self-assessment",
     "personaldata": "Clinical Trial Data",

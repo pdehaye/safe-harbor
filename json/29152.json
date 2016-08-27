@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "866-399-1652",
     "OrgName": "Ernst & Young LLP and U.S. affiliates",
     "PPLoc": "http://www.ey.com/US/en/Home/Privacy_Safe_Harbor ",
@@ -62,7 +61,7 @@
         "Education & Training - (EDS)",
         "General Services - (GSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-25",
     "orgverification": "In-house",
     "personaldata": "On-Line, Off-Line, Manually Processed, Client Data, Human Resources",

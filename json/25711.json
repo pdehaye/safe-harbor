@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "412-995-5500",
     "OrgName": "Carmeuse Lime & Stone, Inc",
     "PPLoc": "see link below",
@@ -36,7 +35,7 @@
     "hrdata": "true",
     "industrysector": "Oil Gas Mineral -(OGS)\r\nOil Gas Mineral Production",
     "industrysector_parsed": [
-        "Oil Gas Mineral -(OGS)\r\nOil Gas Mineral Production"
+        "Oil Gas Mineral -(OGS)"
     ],
     "latest": "true",
     "nextcertification": "2015-10-25",

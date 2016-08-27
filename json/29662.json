@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "440-239-4950",
     "OrgName": "Corporate Screening Services",
     "PPLoc": "http://www.corporatescreening.com/legal-privacy/privacy/safe-harbor-provisions-of-the-privacy-policy/ ",
@@ -61,7 +60,7 @@
         "Employment Services - (EMP)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-19",
     "orgverification": "In-house",
     "personaldata": "On-line, Off-line, Human Resources data",

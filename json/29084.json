@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "919 645-2801",
     "OrgName": "Peoplefluent (formerly Authoria, Inc and Peopleclick, Inc)",
     "PPLoc": "http://www.peoplefluent.com/privacy-policy ",
@@ -62,7 +61,7 @@
         "Computer Software - (CSF)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-28",
     "orgverification": "Third-Party (TRUSTe)",
     "personaldata": "On-line, Off-line, Human resources data",

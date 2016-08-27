@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "Current",
     "Fax": "415-690-7150",
     "OrgName": "GoodData Corporation",
     "PPLoc": "http://www.gooddata.com/privacy-policy ",
@@ -24,7 +23,7 @@
     "hrdata": "No",
     "industrysector": "Computer Software - (CSF)Computer Services - (CSV)General Services - (GSV)Consumer Electronics - (CEL)",
     "nextcertification": "5/5/2017",
-    "orgverification": "Third Party",
+    "orgverification": "Inhouse and TRUSTe",
     "personaldata": "Customer-loaded data",
     "ppdate": "6/12/2014",
     "privacyprograms": "TRUSTe EU Safe Harbor Program",

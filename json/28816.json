@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "800-630-2808",
     "OrgName": "peopleG2, Inc.",
     "PPLoc": "http://www.peopleg2.com/resources/privacy_policy.html ",
@@ -62,7 +61,7 @@
         "General Industrial Eqpt & Supplies - (GIE)",
         "Travel & Tourism Services - (TRA)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-05-16",
     "orgverification": "In-house",
     "personaldata": "All personal data is covered",

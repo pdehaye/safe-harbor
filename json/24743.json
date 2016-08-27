@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "+1-602-366-7691",
     "OrgName": "Freeport-McMoRan Inc.",
     "PPLoc": "http://www.fcx.com/careers/pdf/2011/Safe_Harbor_Privacy_Policy_Statement.pdf ",
@@ -32,7 +31,7 @@
     "industrysector": "Non-Ferrous Metals - (NFM)Oil Gas Mineral -(OGS)\r\nOil Gas Mineral Production",
     "industrysector_parsed": [
         "Non-Ferrous Metals - (NFM)",
-        "Oil Gas Mineral -(OGS)\r\nOil Gas Mineral Production"
+        "Oil Gas Mineral -(OGS)"
     ],
     "latest": "false",
     "nextcertification": "2015-09-26",

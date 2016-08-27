@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "614-792-6901",
     "OrgName": "Wilke Global, Inc.",
     "PPLoc": "http://www.wilkeglobal.com/privacy-policy/ ",
@@ -60,7 +59,7 @@
     "industrysector_parsed": [
         "Computer Services - (CSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-30",
     "orgverification": "In-house self-assessment",
     "personaldata": "On-Line and Off-Line consumer contacts",

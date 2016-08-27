@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "425-453-1403",
     "OrgName": "Apptio, Inc.",
     "PPLoc": "http://www.apptio.com/privacy-policy ",
@@ -60,7 +59,7 @@
     "industrysector_parsed": [
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-08",
     "orgverification": "In-house",
     "personaldata": "personal data provided by website visitors as well as customers",

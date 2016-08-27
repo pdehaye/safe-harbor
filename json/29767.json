@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "770-280-8389",
     "OrgName": "Allnex USA Inc.",
     "PPLoc": "http://allnex.com/corporate-profile ",
@@ -59,7 +58,7 @@
     "industrysector_parsed": [
         "Industrial Chemicals - (ICH)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-30",
     "orgverification": "Self assessment",
     "personaldata": "Organization data including human resources data, customer data",

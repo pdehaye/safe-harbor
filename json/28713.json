@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "714-430-6405",
     "OrgName": "Resources Global Professionals",
     "PPLoc": "http://www.resourcesglobal.com/index.php/privacy-policy ",
@@ -43,7 +42,7 @@
         "Financial Services - (FNS)",
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-08",
     "orgverification": "In house",
     "personaldata": "human resources and financial data",

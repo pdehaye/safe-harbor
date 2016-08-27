@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "(301) 340-3906",
     "OrgName": "StarCompliance",
     "PPLoc": "http://www.starcompliance.com/privacy.php ",
@@ -47,7 +46,7 @@
         "Information Services - (INF)",
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-02",
     "orgverification": "In-house",
     "personaldata": "On-Line Data, Human Resources Data",

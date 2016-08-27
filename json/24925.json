@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "214-265-4738",
     "OrgName": "TransAtlantic Petroleum Ltd.",
     "PPLoc": "http://www.transatlanticpetroleum.com/privacy-statement ",
@@ -27,7 +26,7 @@
     "hrdata": "false",
     "industrysector": "Oil Gas Mineral -(OGS)\r\nOil Gas Mineral Production",
     "industrysector_parsed": [
-        "Oil Gas Mineral -(OGS)\r\nOil Gas Mineral Production"
+        "Oil Gas Mineral -(OGS)"
     ],
     "latest": "true",
     "nextcertification": "2015-07-15",

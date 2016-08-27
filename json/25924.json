@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "262-314-3684",
     "OrgName": "ExxonMobil Global Services Company",
     "PPLoc": "http://www.exxonmobil.com/safeharbor ",
@@ -58,7 +57,7 @@
     "hrdata": "true",
     "industrysector": "Oil Gas Mineral -(OGS)\r\nOil Gas Mineral Production",
     "industrysector_parsed": [
-        "Oil Gas Mineral -(OGS)\r\nOil Gas Mineral Production"
+        "Oil Gas Mineral -(OGS)"
     ],
     "latest": "false",
     "nextcertification": "2015-12-17",

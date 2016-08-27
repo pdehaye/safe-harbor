@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "",
     "OrgName": "Spring Mobile Solutions",
     "PPLoc": "http://www.springmobilesolutions.com/en/about/privacy-policy ",
@@ -61,7 +60,7 @@
         "Information Services - (INF)",
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-05-23",
     "orgverification": "Third Party - TRUSTe",
     "personaldata": "On-line data; Offline data",

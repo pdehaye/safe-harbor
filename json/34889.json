@@ -1,0 +1,43 @@
+{
+    "Fax": "",
+    "OrgName": "Faststream Recruitment Inc",
+    "PPLoc": "TEXAS",
+    "Phone": "8329628276",
+    "activities": "As a recruitment company Faststream Recruitment Inc. processes personal data in relation to its own staff, work-seekers and individual client contacts",
+    "address": "11451 Katy Freeway, Ste 640",
+    "asp_index": "34889",
+    "city": "Houston",
+    "contactemail1": "chris.bramley@faststream.com",
+    "contactfax1": "",
+    "contactname1": "Chris Bramley",
+    "contactoff1": "Faststream Recruitment Inc",
+    "contactphone1": "8329628276",
+    "contacttitle1": "US Operations Director",
+    "corpoffemail1": "chris.bramley@faststream.com",
+    "corpofffax1": "",
+    "corpoffname1": "Chris Bramley",
+    "corpoffphone1": "8329628276",
+    "corpofftitle1": "US Operations Director",
+    "eucountries": "United Kingdom",
+    "eucountries_parsed": [
+        "GBR"
+    ],
+    "euprotection": "true",
+    "hrdata": "true",
+    "industrysector": "Employment Services - (EMP)",
+    "industrysector_parsed": [
+        "Employment Services - (EMP)"
+    ],
+    "latest": "true",
+    "nextcertification": "2017-08-11",
+    "orgverification": "In-house",
+    "personaldata": "Organization, Client, Candidate.  Data is not manually processed.",
+    "ppdate": "2014-07-01",
+    "previous": "28852",
+    "privacyprograms": "Self-regulatory",
+    "recoursemech": "EU Data Protection Authorities",
+    "signupdate": "2014-08-11",
+    "state": "Texas",
+    "statutorybody": "FTC",
+    "zip": "77079"
+}

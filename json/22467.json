@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "(713) 483-5384",
     "OrgName": "Total Petrochemicals & Refining USA, Inc.",
     "PPLoc": "http://www.totalpetrochemicalsusa.com/ and http://www.usa.total.com/",
@@ -58,7 +57,7 @@
     "industrysector": "Industrial Chemicals - (ICH)Oil Gas Mineral -(OGS)\r\nOil Gas Mineral ProductionPlastic Materials & Resin - (PMR)",
     "industrysector_parsed": [
         "Industrial Chemicals - (ICH)",
-        "Oil Gas Mineral -(OGS)\r\nOil Gas Mineral Production",
+        "Oil Gas Mineral -(OGS)",
         "Plastic Materials & Resin - (PMR)"
     ],
     "latest": "false",

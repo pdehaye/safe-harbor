@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "(650) 249-5280",
     "OrgName": "Avangate Inc",
     "PPLoc": "http://www.avangate.com/safe-harbor-policy.php ",
@@ -62,7 +61,7 @@
         "Computer Software - (CSF)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-30",
     "orgverification": "internal",
     "personaldata": "data colected over the internet; data colected manually via paper, phone",

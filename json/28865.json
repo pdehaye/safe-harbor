@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "770-956-8488",
     "OrgName": "PRGX USA, Inc.",
     "PPLoc": "http://www.prgx.com/privacy ",
@@ -50,7 +49,7 @@
         "General Services - (GSV)",
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-28",
     "orgverification": "In-house",
     "personaldata": "on-line,off-line,manually processed, HR",

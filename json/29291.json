@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "310-356-7735",
     "OrgName": "Maseke, Inc.",
     "PPLoc": "http://maseke.com/files/maseke_privacy_policy.pdf ",
@@ -47,7 +46,7 @@
     "industrysector_parsed": [
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-17",
     "orgverification": "Internal Stewart and Third Party External Auditors",
     "personaldata": "Client Organization, Client Employee Personal Demographic Data and Client Employee Payroll Data",

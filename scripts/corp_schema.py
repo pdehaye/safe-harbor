@@ -1,7 +1,7 @@
 from collections import namedtuple
 from industry_sectors import industry_sectors
 
-all_properties = [ 'CertificationStatus',
+all_properties = [ #'CertificationStatus',
                    'Content1',
                    'Content2',
                    'Content3',
@@ -69,7 +69,7 @@ all_properties = [ 'CertificationStatus',
 corp_properties = ['asp_index',
                    #####
                    'OrgName',
-                   'CertificationStatus',
+                   #'CertificationStatus',
                    'industrysector',
                    'PPLoc',
                    'privacyprograms',

@@ -88,7 +88,7 @@ boolean = {"Yes": "true", "No": "false", "No ": "false", "Sel": ""}
 tag_maps = {
                      "hrdata": boolean,
                      "statutorybody" : {"Federal Trade Commission" : "FTC", "Department of Transportation": "DoT"},
-                     "CertificationStatus": {"Current": "true", "Not Current": "false"},
+                     # "CertificationStatus": {"Current": "true", "Not Current": "false"},
                      "euprotection": boolean
                  }
 

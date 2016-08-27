@@ -1,5 +1,4 @@
 {
-    "CertificationStatus": "true",
     "Fax": "713-328-2152",
     "OrgName": "Core Laboratories LP",
     "PPLoc": "http://www.corelab.com/corporate/privacy-statement ",
@@ -57,7 +56,7 @@
     "industrysector_parsed": [
         "Computer Software - (CSF)",
         "Oil & Gas Field Machinery - (OGM)",
-        "Oil Gas Mineral -(OGS)\r\nOil Gas Mineral Production"
+        "Oil Gas Mineral -(OGS)"
     ],
     "latest": "true",
     "nextcertification": "2016-09-20",

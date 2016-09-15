@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "781-246-8585",
     "OrgName": "Veracross, LLC",
     "PPLoc": "https://assets.veracross.com/docs/veracross_privacy_policy.pdf",
@@ -35,7 +36,7 @@
     "industrysector_parsed": [
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-21",
     "orgverification": "Third Party",
     "personaldata": "Client and client's own customer data.  Some data is manually processed (editied by individuals granted access to our software)",

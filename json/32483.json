@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "619-795-3948",
     "OrgName": "MindTouch, Inc",
     "PPLoc": "http://www.mindtouch.com/privacy-policy/ ",
@@ -59,7 +60,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-09-25",
     "orgverification": "In-house",
     "personaldata": "Client and Customer Data",

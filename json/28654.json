@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "",
     "OrgName": "ExamSoft Worldwide",
     "PPLoc": "http://learn.examsoft.com/privacy-policy ",
@@ -50,7 +51,7 @@
     "industrysector_parsed": [
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-06-19",
     "orgverification": "in-house",
     "personaldata": "First and last name of end user, as well as email address.",

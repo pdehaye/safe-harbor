@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "617-743-0912",
     "OrgName": "Bullhorn, Inc.",
     "PPLoc": "http://www.bullhornstaffing.com/Privacy.htm ",
@@ -55,7 +56,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-09-18",
     "orgverification": "Third Party - TRUSTe",
     "personaldata": "On-Line",

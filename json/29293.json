@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "203-295-2251",
     "OrgName": "Interconex, Inc.",
     "PPLoc": "https://usnykweb03.interconex.com/pls/idxnet/webnu.privacy",
@@ -55,7 +56,7 @@
         "Aviation Services - (AVS)",
         "Transportation Srvs (Except Aviation) - (TRN)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-11",
     "orgverification": "In-house audits",
     "personaldata": "off-line, on-line, manually processed",

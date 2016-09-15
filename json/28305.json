@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "",
     "OrgName": "Ionic Security Inc",
     "PPLoc": "https:/ www.ionic.com/privacy-policy ",
@@ -61,7 +62,7 @@
         "Computer Software - (CSF)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-05",
     "orgverification": "in-house",
     "personaldata": "On-Line; Off-Line; Manually processed;  User and Customer Data.",

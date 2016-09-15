@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "",
     "OrgName": "Fullpower Technologies, Inc.",
     "PPLoc": "http://www.fullpower.com/home/privacy-policy ",
@@ -59,7 +60,7 @@
     "industrysector_parsed": [
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-15",
     "orgverification": "Third party",
     "personaldata": "On-line data = data collected directly on the Internet. Offline data = any digital data processed not through the Internet \u2013 such as data collected through an Intranet",

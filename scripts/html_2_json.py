@@ -12,13 +12,14 @@ import sys
 
 def parse_html(fileno):
     with open(os.path.join(html_dir, fileno + ".html"), "r") as f:
-        soup = BeautifulSoup(f.read())
-    tags = [(tag["id"].strip("lbl"), tag.text) for tag in soup.body.form.find_all('span')]
+        soup = BeautifulSoup(f.read(), "html.parser")
+    tags = [(tag["id"].lstrip("lbl"), tag.text) for tag in soup.body.form.find_all('span')]
     tmp = {}
     for tag_id, tag_text in tags:
         try:
             assert tag_id in all_properties
         except: 
+            print fileno, tag_id, tags
             raise AssertionError("New HTML tag {} encountered, information presumably lost".format(tag_id))
         if tag_id in corp_properties_set:
             tmp[tag_id] = tag_text

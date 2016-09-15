@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "484-427-8201",
     "OrgName": "Aria Systems, Inc.",
     "PPLoc": "http://www.ariasystems.com/privacy-policy ",
@@ -60,7 +61,7 @@
         "Computer Software - (CSF)",
         "Financial Services - (FNS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-13",
     "orgverification": "In-house",
     "personaldata": "electronically collected 'on-line' billing information (name, address, payment information, credit card info, etc..)",

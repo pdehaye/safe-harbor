@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "2013085547",
     "OrgName": "Fantage.com Inc",
     "PPLoc": "http://www.fantage.com/privacy_policy.html ",
@@ -57,7 +58,7 @@
     "industrysector_parsed": [
         "Toy & Games - (TOY)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-06-10",
     "orgverification": "Self-Assessment",
     "personaldata": "Year of Birth, Email Address of Parents",

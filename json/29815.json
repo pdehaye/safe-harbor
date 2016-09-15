@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "203 254 3841",
     "OrgName": "Envision Pharma Inc",
     "PPLoc": "http://www.envisionpharmagroup.com/group/cookie-and-privacy-policy.html ",
@@ -60,7 +61,7 @@
         "Drugs & Pharmaceuticals - (DRG)",
         "General Science & Technology - (GST)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-07",
     "orgverification": "In house",
     "personaldata": "Personal Data regarding employees/potential employees, clients, client employees and consultants, consultants, vendors, authors, healthcare professionsals, medical investigators, clinical trial participants, patient data, investors and shareholders, including manually processed data",

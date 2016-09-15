@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "800-495-7934",
     "OrgName": "Motivation Science, Inc.",
     "PPLoc": "https://validic.com/legal/privacy",
@@ -59,7 +60,7 @@
     "industrysector_parsed": [
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-08",
     "orgverification": "In-house",
     "personaldata": "Motivation Science collects, stores and transmits non-identifiable data, captured from mobile healthcare devices after receiving the end users' permission. None of these data are manually processed.",

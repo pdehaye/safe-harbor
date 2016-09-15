@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "888-744-6483",
     "OrgName": "IgnitionOne, Inc.",
     "PPLoc": "http://www.ignitionone.com/privacy-policy/ ",
@@ -59,7 +60,7 @@
     "industrysector_parsed": [
         "Advertising Services - (ADV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-16",
     "orgverification": "Third-Party",
     "personaldata": "organization, client, customer",

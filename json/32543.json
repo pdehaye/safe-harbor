@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "2027721882",
     "OrgName": "Themis",
     "PPLoc": "http://www.themisanalytics.com/privacy-policy ",
@@ -61,7 +62,7 @@
         "Health Care Services - (HCS)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-07",
     "orgverification": "Third Party",
     "personaldata": "Client HR data, and client confidential data about physicians",

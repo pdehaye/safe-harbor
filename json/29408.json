@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "480-346-2210",
     "OrgName": "Business Integration Group, Inc.",
     "PPLoc": "http://www.bigcenter.com/PrivacyNotice.html ",
@@ -40,7 +41,7 @@
     "industrysector_parsed": [
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-28",
     "orgverification": "Third Party - TRUSTe",
     "personaldata": "on-line data",

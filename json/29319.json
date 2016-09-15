@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "602 952 1557",
     "OrgName": "Bristol Global Mobility",
     "PPLoc": "http://www.bristolglobal.com/privacy.php ",
@@ -59,7 +60,7 @@
     "industrysector_parsed": [
         "General Services - (GSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-06-27",
     "orgverification": "3rd Party Dispute Mechanism & verification program",
     "personaldata": "Bristol collects information that the relocating employee voluntarily provides to us via email or through registration in the BRISTOL Elite database. This information includes name, address, phone number , email address and other information necessary for us to provide services.  This data does not include manually processed data.",

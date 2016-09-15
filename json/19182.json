@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "626-389-5646",
     "OrgName": "OpenX",
     "PPLoc": "http://openx.com/legal/openx-website-privacy-principles/ ",
@@ -27,7 +28,7 @@
         "Advertising Services - (ADV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-08-26",
     "orgverification": "third-party",
     "personaldata": "off-line, on-line, manually processed",

@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "703-390-9289",
     "OrgName": "Collaborative Solutions, LLC",
     "PPLoc": "http://collaborativesolutions.com/privacy-policy-disclaimer/ ",
@@ -58,7 +59,7 @@
     "industrysector_parsed": [
         "Computer Services - (CSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-06-04",
     "orgverification": "In-House",
     "personaldata": "Our organization processes HR data for our clients.  The data is transferred to us via secure FTP, managed on encrypted hard drives and loaded into Workday, a password protected system leased by the customer.",

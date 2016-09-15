@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "650-969-3251",
     "OrgName": "DNAnexus",
     "PPLoc": "https://dnanexus.com/privacy",
@@ -59,7 +60,7 @@
         "Computer Services - (CSV)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-09-12",
     "orgverification": "Third Party - Montebello Partners",
     "personaldata": "DNAnexus users may upload organization, client, customer, and/or clinical trial data to their account.  DNAnexus does not manually process any customer data.",

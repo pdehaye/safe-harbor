@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "5128872564",
     "OrgName": "Incsub, LLC",
     "PPLoc": "http://edublogs.org/privacy-policy/ ",
@@ -59,7 +60,7 @@
     "industrysector_parsed": [
         "Computer Services - (CSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-06-05",
     "orgverification": "In-house",
     "personaldata": "Organization and user data - no manually processed data.",

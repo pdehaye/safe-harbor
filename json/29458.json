@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "415-592-1639",
     "OrgName": "Shibumi.com, Inc.",
     "PPLoc": "http://shibumi.com/privacy-policy/ ",
@@ -59,7 +60,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-12",
     "orgverification": "third party",
     "personaldata": "on-line data",

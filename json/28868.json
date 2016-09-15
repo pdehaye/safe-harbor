@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "",
     "OrgName": "Datavail Corporation",
     "PPLoc": "http://www.datavail.com/privacy-policy/ ",
@@ -59,7 +60,7 @@
     "industrysector_parsed": [
         "Computer Services - (CSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-06",
     "orgverification": "In-House",
     "personaldata": "Datavail is given access to our customers' systems that contain personal data for the purposes of database administration. We do not store, process or transmit such data.",

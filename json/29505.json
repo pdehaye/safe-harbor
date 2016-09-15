@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "703-262-7707",
     "OrgName": "DATABASICS Inc",
     "PPLoc": "http://www.data-basics.com/privacy/ ",
@@ -61,7 +62,7 @@
         "Information Services - (INF)",
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-26",
     "orgverification": "In-house and TRUSTe (see link above)",
     "personaldata": "Data relating company labor distribution, company travel, and company affiliation Includes HR info.",

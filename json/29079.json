@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "650-249-7101",
     "OrgName": "Host Analytics, Inc",
     "PPLoc": "http://www.hostanalytics.com/privacy-policy ",
@@ -60,7 +61,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-20",
     "orgverification": "In-house",
     "personaldata": "on-line data, personally identifiable data, contact data",

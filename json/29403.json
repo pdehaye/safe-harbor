@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "855-872-1437",
     "OrgName": "Media Defined, Inc.",
     "PPLoc": "http://www.netexam.com/privacy.htm ",
@@ -60,7 +61,7 @@
         "Computer Software - (CSF)",
         "Education & Training - (EDS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-09-11",
     "orgverification": "In-house",
     "personaldata": "All data including manually processed data.",

@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "702-891-0555",
     "OrgName": "Global Intelligence Network, LLC",
     "PPLoc": "http://www.globalintelligence.net/privacy-policy/ ",
@@ -55,7 +56,7 @@
     "industrysector_parsed": [
         "Employment Services - (EMP)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-03",
     "orgverification": "In-house",
     "personaldata": "On-Line, Off-Line,  Human Resources Data",

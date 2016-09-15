@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "999-999-9999",
     "OrgName": "Tremor Video, Inc.",
     "PPLoc": "http://tremorvideo.com/en/privacy-policy ",
@@ -28,7 +29,7 @@
     "industrysector_parsed": [
         "Advertising Services - (ADV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-09-02",
     "orgverification": "In-house",
     "personaldata": "Organization, customer, partner, user, and vendor. Data covered includes manually processed data.",

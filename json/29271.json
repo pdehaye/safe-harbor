@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "866-340-7511",
     "OrgName": "Secure Data Recovery Services",
     "PPLoc": "http://www.securedatarecovery.com/legal/privacy-policy ",
@@ -62,7 +63,7 @@
         "General Science & Technology - (GST)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-06",
     "orgverification": "Third Party: TRUSTe",
     "personaldata": "On-line data = data collected directly on the Internet.",

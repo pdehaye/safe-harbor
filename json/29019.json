@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "612-399-0052",
     "OrgName": "Seabury Group LLC",
     "PPLoc": "http://www.seaburygroup.com/privacy-policy ",
@@ -42,7 +43,7 @@
         "Investment Service - (INV)",
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-09-03",
     "orgverification": "In-house",
     "personaldata": "Manually processed organization, client, and customer data.",

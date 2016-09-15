@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "312-264-2576",
     "OrgName": "Goodbay Technologies Inc",
     "PPLoc": "http://goodbaytech.com/privacy-policy/ ",
@@ -60,7 +61,7 @@
         "Computer Services - (CSV)",
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-21",
     "orgverification": "In-house",
     "personaldata": "We don't collect or store customers' data.  Our representatives only access the customer data from our EU-based clients admin tools.  In these admin tools, we can see customers' names, IP addresses, virtual currency purchased and spent, games played, game levels and milestones.  We use this data to answer customer's questions about the game, or to provide technical support by email.",

@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "(415) 762-4115",
     "OrgName": "Birst",
     "PPLoc": "https:/ www.birst.com/privacy-policy ",
@@ -60,7 +61,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-09-27",
     "orgverification": "In-house and TRUSTe",
     "personaldata": "on-line, customer uploaded data",

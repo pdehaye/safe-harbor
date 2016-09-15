@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "415-901-7040",
     "OrgName": "Buddy Media, Inc.",
     "PPLoc": "http://www.exacttarget.com/privacy-policy/website-privacy-statement ",
@@ -59,7 +60,7 @@
     "industrysector_parsed": [
         "Computer Services - (CSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-09-02",
     "orgverification": "TRUSTe",
     "personaldata": "Offline, online, client, customer, prospect and business partner data",

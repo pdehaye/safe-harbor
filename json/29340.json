@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "4089881070",
     "OrgName": "Atypon Systems, Inc.",
     "PPLoc": "http://www.atypon.com/privacyPolicy.html ",
@@ -60,7 +61,7 @@
         "Books & Periodicals - (BOK)",
         "Computer Services - (CSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-06-20",
     "orgverification": "Third Party",
     "personaldata": "On-line data, Offline data, Manually processed data",

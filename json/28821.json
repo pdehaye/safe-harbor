@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "781-577-4615",
     "OrgName": "Fleetmatics",
     "PPLoc": "http://www.fleetmatics.com/privacy-policy/126 ",
@@ -37,7 +38,7 @@
         "Information Services - (INF)",
         "Transportation Srvs (Except Aviation) - (TRN)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-30",
     "orgverification": "In-house.",
     "personaldata": "The personal data described above is covered by our self-certification with the Safe Harbor Framework.",

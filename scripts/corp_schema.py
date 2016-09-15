@@ -27,7 +27,7 @@ all_properties = [ #'CertificationStatus',
                    'activities',
                    'address',
                    'city',
-                   'contactemai',
+                   'contactemail',
                    'contactemail1',
                    'contactfax',
                    'contactfax1',
@@ -38,7 +38,7 @@ all_properties = [ #'CertificationStatus',
                    'contactphone',
                    'contactphone1',
                    'contacttitle1',
-                   'corpoffemai',
+                   'corpoffemail',
                    'corpoffemail1',
                    'corpofffax',
                    'corpofffax1',
@@ -62,7 +62,10 @@ all_properties = [ #'CertificationStatus',
                    'signupdate',
                    'state',
                    'statutorybody',
-                   'zip']
+                   'zip',
+		   'CertifiedThroughLabel'
+                   ]
+
 
 # The true corp_properties, which excludes purely HTML tags from above, and introduces the new key: 'asp_index'
 
@@ -100,7 +103,8 @@ corp_properties = ['asp_index',
                    'personaldata',
                    'ppdate',
                    'signupdate',
-                   'statutorybody'
+                   'statutorybody',
+                   'CertifiedThroughLabel'
 ]
 
 corp_properties_set = set(corp_properties)

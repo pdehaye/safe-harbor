@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "888-453-0595",
     "OrgName": "ASC Services, LLC",
     "PPLoc": "http://www.ascllc.net/privacy.html ",
@@ -61,7 +62,7 @@
         "Information Services - (INF)",
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-06-09",
     "orgverification": "Third Party",
     "personaldata": "Customer and Client Data.",

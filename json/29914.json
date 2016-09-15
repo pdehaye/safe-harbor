@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "203-567-7367",
     "OrgName": "Survey Sampling International",
     "PPLoc": "https:/ www.surveyspot.com/policies/privacy ",
@@ -59,7 +60,7 @@
     "industrysector_parsed": [
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-11",
     "orgverification": "In-house",
     "personaldata": "Personal data of survey panelists and participants, organizational data, and client or potential client data. Data is processed manually.",

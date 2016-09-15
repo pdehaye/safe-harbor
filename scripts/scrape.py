@@ -6,7 +6,7 @@
 """
 
 import requests, os, sys, time
-address = "https://safeharbor.export.gov/companyinfo.aspx?id="
+address = "https://safeharbor.export.gov/companyinfo.aspx?loc=eu&id="
 from os import path
 from names import html_dir, archive_json_dir
 

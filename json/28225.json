@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "(512) 225-3999",
     "OrgName": "Journyx",
     "PPLoc": "http://www.journyx.com/privacy ",
@@ -57,7 +58,7 @@
     "industrysector_parsed": [
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-06-17",
     "orgverification": "In-house",
     "personaldata": "Manually processed and on-line",

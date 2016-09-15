@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "484-567-3002",
     "OrgName": "New Horizons Computer Learning Centers, Inc.",
     "PPLoc": "http://www.newhorizons.com/privacypolicy.aspx ",
@@ -59,7 +60,7 @@
         "Computer Services - (CSV)",
         "Education & Training - (EDS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-13",
     "orgverification": "In House",
     "personaldata": "On-Line, Off-Line, Human Resources Data",

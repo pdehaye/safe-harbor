@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "913-341-2986",
     "OrgName": "iModules Software, Inc.",
     "PPLoc": "http://www.imodules.com/s/1333/index.aspx?sid=1333&gid=1&pgid=230&cid=157 ",
@@ -59,7 +60,7 @@
     "industrysector_parsed": [
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-18",
     "orgverification": "In-house",
     "personaldata": "On-line, Off-line",

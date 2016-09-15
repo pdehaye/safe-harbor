@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "925-355-3005",
     "OrgName": "Nextrials, Inc.",
     "PPLoc": "http://www.nextrials.com/doc/Privacy_Policy_Final.pdf ",
@@ -42,7 +43,7 @@
     "industrysector_parsed": [
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-28",
     "orgverification": "Self-Assessment",
     "personaldata": "Organization, client, customer, and clinical trial data are covered and may include on-line, off-line, manually processed, and human resources data.",

@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "312-326-7706",
     "OrgName": "R. R. Donnelley & Sons Company",
     "PPLoc": "http://www.rrdonnelley.com/privacy-policy.aspx ",
@@ -61,7 +62,7 @@
         "Printing & Graphic Arts Equipment - (PGA)",
         "Transportation Srvs (Except Aviation) - (TRN)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-07-28",
     "orgverification": "In-house",
     "personaldata": "off-line, on-line, customer, human resources data",

@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "",
     "OrgName": "A.T. Kearney, Inc.",
     "PPLoc": "http://www.atkearney.com/safe-harbor ",
@@ -59,7 +60,7 @@
     "industrysector_parsed": [
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-06-06",
     "orgverification": "In-house",
     "personaldata": "Online, offline",

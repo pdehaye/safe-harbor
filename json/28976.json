@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "415-563-8437",
     "OrgName": "Heroku, Inc.",
     "PPLoc": "http://www.heroku.com/policy/privacy ",
@@ -59,7 +60,7 @@
     "industrysector_parsed": [
         "Computer Services - (CSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-08",
     "orgverification": "In-house",
     "personaldata": "On-line, client, customer, prospect and business partner data",

@@ -107,7 +107,7 @@ def transform_corp(corp):
         elif tag_id in tag_transforms:
             new_corp[tag_id] = tag_transforms[tag_id](corp[tag_id])
         else:
-            new_corp[tag_id] = corp[tag_id]
+            new_corp[tag_id] = corp.get(tag_id, "")
     latest, previous = is_latest(corp["OrgName"], corp["asp_index"])
     if latest:
         new_corp["latest"] = "true"

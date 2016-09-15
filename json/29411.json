@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "919-754-3704",
     "OrgName": "Red Hat, Inc. and its Controlled U.S. Subsidiaries",
     "PPLoc": "http://www.redhat.com/en/about/privacy-policy ",
@@ -60,7 +61,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-13",
     "orgverification": "In-house",
     "personaldata": "On-Line, Off-Line, Manually Processed, Human Resources Data",

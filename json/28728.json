@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "646-825-6465",
     "OrgName": "AppNexus Inc. and its controlled U.S. subsidiaries",
     "PPLoc": "http://appnexus.com/platform-policy ",
@@ -59,7 +60,7 @@
     "industrysector_parsed": [
         "Advertising Services - (ADV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-06-28",
     "orgverification": "In-house",
     "personaldata": "Non-personally identifiable information used for advertising purposes, e.g. IP address, and internet clickstream data. Business-to-business contact information for marketing. Human resources data, which may include offline or manually processed data.",

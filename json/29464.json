@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "650-364-3459",
     "OrgName": "BroadVision, Inc",
     "PPLoc": "http://www.clearvale.com/mkt-nav/en/privacy.php ",
@@ -58,7 +59,7 @@
     "industrysector_parsed": [
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-17",
     "orgverification": "third party: TRUSTe",
     "personaldata": "The personal data collected and processed is described in Section 2 of our Privacy Policy (http://www.clearvale.com/mkt-nav/en/privacy.php) and it is covered by the Safe Harbor Framework. There is no manually processed data in the current system.",

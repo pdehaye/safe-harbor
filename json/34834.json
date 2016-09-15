@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "603-462-0833",
     "OrgName": "CAMP Systems International Inc.",
     "PPLoc": "https:/ www.verasafe.com/privacy-verified/campsystems/privacy-policy.html ",
@@ -60,7 +61,7 @@
         "Aviation Services - (AVS)",
         "Computer Services - (CSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-10-12",
     "orgverification": "VersSafe",
     "personaldata": "Personal and business contact information collected online and processed by automatic means",

@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "602-241-3339",
     "OrgName": "TERIS-Phoenix",
     "PPLoc": "http://www.teris.com/about/privacy-policy ",
@@ -59,7 +60,7 @@
         "Computer Services - (CSV)",
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-03-21",
     "orgverification": "In-house",
     "personaldata": "Offline, online, and manually processed.",

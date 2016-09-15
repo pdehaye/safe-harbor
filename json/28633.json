@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "703-890-2801",
     "OrgName": "Apptix, Inc.",
     "PPLoc": "http://www.apptix.com/legal/terms-conditions/apptix-personal-information-privacy-policy.aspx ",
@@ -57,7 +58,7 @@
     "industrysector_parsed": [
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-06-18",
     "orgverification": "In house",
     "personaldata": "Client name, contact address and phone number.",

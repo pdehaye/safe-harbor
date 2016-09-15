@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "310-388-5430",
     "OrgName": "Criteria Corp",
     "PPLoc": "http://www.criteriacorp.com/privacy.htm ",
@@ -62,7 +63,7 @@
         "Information Services - (INF)",
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-06-05",
     "orgverification": "In-house",
     "personaldata": "Job applicant's personal information includes first name, last name, and email address.",

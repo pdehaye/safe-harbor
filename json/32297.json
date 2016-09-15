@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "973-777-6899",
     "OrgName": "OptiBrand Rx",
     "PPLoc": "http://www.optibrandrx.com/#!/c1b9h ",
@@ -60,7 +61,7 @@
         "Advertising Services - (ADV)",
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-14",
     "orgverification": "In-house",
     "personaldata": "Market Research Validation of Brand Positioning and other Strategic Marketing initiatives.",

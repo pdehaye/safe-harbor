@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "720-872-4140",
     "OrgName": "Critigen LLC",
     "PPLoc": "http://www.critigen.com/about/contracts ",
@@ -30,7 +31,7 @@
         "Computer Software - (CSF)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-14",
     "orgverification": "Self Assessment",
     "personaldata": "Customer data for identification and storage in the information system.  Manually processed data is also covered.",

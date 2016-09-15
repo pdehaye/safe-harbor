@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "304-363-5742",
     "OrgName": "Fresh Ideas, Inc.",
     "PPLoc": "Corporate Office and on our website",
@@ -29,7 +30,7 @@
     "industrysector_parsed": [
         "General Services - (GSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2011-08-14",
     "orgverification": "In-house",
     "personaldata": "on-line & manually processed data",

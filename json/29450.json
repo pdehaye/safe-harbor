@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "720-396-5384",
     "OrgName": "International Business Machines Corporation (IBM) and those SaaS and service offerings referred to herein",
     "PPLoc": "http://www.IBM.com/privacy/details/us/ for online info & infor collected through the SaaS and service offerings referred to above a data controller; internal website for HR data",
@@ -62,7 +63,7 @@
         "Health Care Services - (HCS)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-15",
     "orgverification": "Third-Party and In-House (see below for details)",
     "personaldata": "On-Line data; Human Resources data, and third party data received as a proccessor through the SaaS and service offerings referred to above",

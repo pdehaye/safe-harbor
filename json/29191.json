@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "763-258-2737",
     "OrgName": "MedNet Solutions, Inc.",
     "PPLoc": "http://www.mednetstudy.com/privacy_policy.html ",
@@ -61,7 +62,7 @@
         "Drugs & Pharmaceuticals - (DRG)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-24",
     "orgverification": "In-house",
     "personaldata": "Organization, clinical trial data, client",

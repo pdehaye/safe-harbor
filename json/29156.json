@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "",
     "OrgName": "PRISM Group, Inc., a subsidiary of Sabre GLBL Inc.",
     "PPLoc": "http://www.prism-grp.com/#Privacy Policy",
@@ -41,7 +42,7 @@
     "industrysector_parsed": [
         "Travel & Tourism Services - (TRA)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-24",
     "orgverification": "In-house",
     "personaldata": "Off-Lines",

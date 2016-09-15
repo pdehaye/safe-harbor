@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "877-912-9501",
     "OrgName": "ADS Global Inc.",
     "PPLoc": "http://www.ads-g.com/privacypolicy.html ",
@@ -30,7 +31,7 @@
         "Books & Periodicals - (BOK)",
         "Travel & Tourism Services - (TRA)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-05-21",
     "orgverification": "In-house",
     "personaldata": "Customer contact, travel plans, credit card and other payment information.",

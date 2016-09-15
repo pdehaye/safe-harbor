@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "555-555-5555",
     "OrgName": "Iron.io",
     "PPLoc": "http://www.iron.io/privacy ",
@@ -58,7 +59,7 @@
     "industrysector_parsed": [
         "Computer Services - (CSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2015-12-03",
     "orgverification": "In-house",
     "personaldata": "Customer / Prospective Customer (see above or within the text of the privacy file for detailed description.",

@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "973-539-3614",
     "OrgName": "Weichert Workforce Mobility Inc.",
     "PPLoc": "http://www.wrri.com/External/?page_id=2557 ",
@@ -59,7 +60,7 @@
         "Employment Services - (EMP)",
         "General Services - (GSV)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-06-25",
     "orgverification": "In-House",
     "personaldata": "On-Line, Off-Line, Human Resources Data",

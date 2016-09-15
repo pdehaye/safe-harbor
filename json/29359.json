@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "8005499198",
     "OrgName": "IdeaScale",
     "PPLoc": "http://support.ideascale.com/customer/portal/articles/1002592 ",
@@ -60,7 +61,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-09",
     "orgverification": "In-house.",
     "personaldata": "Online client and market research participant data provided and collected by client.",

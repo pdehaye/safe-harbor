@@ -1,4 +1,5 @@
 {
+    "CertifiedThroughLabel": "",
     "Fax": "202-828-0860",
     "OrgName": "Danaher Corporation",
     "PPLoc": "http://www.danaher.com/terms-use ",
@@ -46,7 +47,7 @@
         "General Industrial Eqpt & Supplies - (GIE)",
         "Medical Equipment - (MED)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-08-11",
     "orgverification": "self-assessment compliance review",
     "personaldata": "European employee data",

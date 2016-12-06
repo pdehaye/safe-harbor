@@ -62,7 +62,7 @@
         "Computer Services - (CSV)",
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-11-19",
     "orgverification": "in-house",
     "personaldata": "Customers use the Certent Platform to manage equity compensation information for their employees and disclosure information for their company.  Varying levels of personal information about employees can be stored in the Certent database including name, date of birth address, phone number and Tax ID and Broker Account Number.",

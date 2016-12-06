@@ -61,7 +61,7 @@
         "Computer Services - (CSV)",
         "Education & Training - (EDS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-04-29",
     "orgverification": "In-house",
     "personaldata": "We store first name, last name, email address, and last login IP address in a user table that is maintained persistently and backed up regularly. This data is not manually processed.",

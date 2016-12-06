@@ -61,7 +61,7 @@
         "Education & Training - (EDS)",
         "Management Consulting Services - (MCS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-11-02",
     "orgverification": "Third Party",
     "personaldata": "The personal information we gather from clients, including manually processed data is: name, email address, registration security responses, optional demographic responses (Learners only), optional ethnicity response (US Learners only), survey responses (Learners and Raters only), ship-to addresses (Administrators and Facilitators only), telephone numbers (Administrators and Facilitators only).",

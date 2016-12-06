@@ -63,7 +63,7 @@
         "Information Services - (INF)",
         "Telecommunications Services - (TES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-06-01",
     "orgverification": "In-House",
     "personaldata": "All company and client/customer data, souce codes, trial data etc. are covered.",

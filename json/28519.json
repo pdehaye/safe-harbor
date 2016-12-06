@@ -61,7 +61,7 @@
         "Drugs & Pharmaceuticals - (DRG)",
         "Medical Equipment - (MED)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-06-07",
     "orgverification": "In-house",
     "personaldata": "Personal information of users of client systems. Please see the above field titled \"DESCRIPTION OF YOUR ORGANIZATION'S EVENTS WITH RESPECT TO PERSONAL INFORMATION\"",

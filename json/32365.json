@@ -61,7 +61,7 @@
         "Computer Software - (CSF)",
         "Drugs & Pharmaceuticals - (DRG)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-10-26",
     "orgverification": "In-House",
     "personaldata": "On-Line, Customer Data, Clinical Trial Data, Human Resources Data",

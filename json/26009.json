@@ -61,7 +61,7 @@
         "General Services - (GSV)",
         "Leasing Services - (LES)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-01-17",
     "orgverification": "In-house",
     "personaldata": "Organization, client, user, all logged and audit trailed activities, self-registrations",

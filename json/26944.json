@@ -60,7 +60,7 @@
         "Information Services - (INF)",
         "Insurance Services - (INS)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-02-28",
     "orgverification": "In-house",
     "personaldata": "Data includes any information on a EU citizen who ALSO has a U.S. issued Social Security Number due to them having a valid work visa, gren card, or dual citizenship in the U.S. and their home country. Data is limited to data provided by the data subject to us for use to resolve U.S related identity fraud.",

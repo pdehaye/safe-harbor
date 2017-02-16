@@ -60,7 +60,7 @@
         "Health Care Services - (HCS)",
         "Medical Equipment - (MED)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-12-23",
     "orgverification": "In-house and Third Party",
     "personaldata": "All applicable (related to the residents of the countries noted below) personal data, including patient demographic, medical, device and clinical trials personal data along with team member personal data. This includes all applicable personal data from each Boston Scientific division listed above.",

@@ -61,7 +61,7 @@
         "Advertising Services - (ADV)",
         "Information Services - (INF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2017-01-26",
     "orgverification": "In-House",
     "personaldata": "Consumer data (e.g., IP address, unique user ID, clickstream data).  Business-to-business information for marketing.  Human resources data, which may include offline or manually processed data.",

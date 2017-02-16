@@ -60,7 +60,7 @@
     "industrysector_parsed": [
         "Drugs & Pharmaceuticals - (DRG)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2017-01-16",
     "orgverification": "In-house",
     "personaldata": "On-line, Off-line, Manually and Electronically Processed, Human Resources data, clinical trial data, customer data",

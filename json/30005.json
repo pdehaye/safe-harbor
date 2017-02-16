@@ -60,7 +60,7 @@
     "industrysector_parsed": [
         "Computer Software - (CSF)"
     ],
-    "latest": "true",
+    "latest": "false",
     "nextcertification": "2016-10-22",
     "orgverification": "In-House",
     "personaldata": "Client/Customer contact information such as name, email address, mailing address, phone number. Information about their business such as company name, company size, business type. May be online or data received offline. Contact data for customer's business locations and individuals at those locations, contact data collected through website forms and manually processed data.",
